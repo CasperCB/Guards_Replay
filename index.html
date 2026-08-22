@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Guards of Atlantis II Replay</title>
+  <link rel="stylesheet" href="css/styles.css?v=7.3a">
+</head>
+<body>
+  <main class="replay-shell">
+    <header class="replay-header">
+      <div class="replay-header__meta">
+        <p class="eyebrow">GUARDS OF ATLANTIS II · REPLAY</p>
+        <p id="game-name" class="prototype-note">Loading Game 001…</p>
+      </div>
+
+      <div class="turn-heading">
+        <div id="round-turn" class="round-turn">LOADING REPLAY</div>
+        <div id="action-description" class="action-description" data-mode="result">
+          <span id="previous-description" class="action-history">Preparing presentation timeline…</span>
+          <span id="action-context-separator" class="action-context-separator" hidden>|</span>
+          <span id="current-resolution" class="current-resolution"></span>
+        </div>
+      </div>
+
+      <div class="replay-header__meta replay-header__meta--right">
+        <p class="eyebrow">PUBLIC TABLE STATE</p>
+        <p class="prototype-note">Action-mode presentation</p>
+      </div>
+    </header>
+
+    <section id="replay-layout" class="replay-layout" data-layout="2v2" aria-label="Game replay layout">
+      <aside class="team-column team-column--blue" aria-labelledby="blue-team-title">
+        <div class="team-column__title" id="blue-team-title">BLUE TEAM</div>
+        <div id="blue-team-stations" class="team-stations"></div>
+      </aside>
+
+      <aside class="focus-gutter focus-gutter--blue" aria-label="Blue team active card focus">
+        <div id="blue-active-card" class="active-card-host" aria-live="polite"></div>
+      </aside>
+
+      <section class="center-stage" aria-label="Replay board">
+        <div class="map-frame">
+          <img id="map-image" class="map-image" alt="Forbidden Island game board">
+          <div id="map-pieces" class="map-pieces" aria-label="Pieces on board"></div>
+          <div class="map-badge">FORBIDDEN ISLAND</div>
+          <div id="game-result-badge" class="game-result-badge" hidden></div>
+        </div>
+        <div class="game-status" aria-label="Game status">
+          <div class="status-chip status-chip--red"><span>RED LIFE</span><strong id="red-life">—</strong></div>
+          <div class="status-chip"><span>WAVE</span><strong id="wave-number">—</strong></div>
+          <div class="status-chip"><span>BATTLE ZONE</span><strong id="battle-zone">—</strong></div>
+          <div class="status-chip"><span>PUSHES</span><strong id="push-count">—</strong></div>
+          <div class="status-chip status-chip--blue"><span>BLUE LIFE</span><strong id="blue-life">—</strong></div>
+        </div>
+      </section>
+
+      <aside class="focus-gutter focus-gutter--red" aria-label="Red team active card focus">
+        <div id="red-active-card" class="active-card-host" aria-live="polite"></div>
+      </aside>
+
+      <aside class="team-column team-column--red" aria-labelledby="red-team-title">
+        <div class="team-column__title" id="red-team-title">RED TEAM</div>
+        <div id="red-team-stations" class="team-stations"></div>
+      </aside>
+    </section>
+
+    <nav class="replay-navigation" aria-label="Replay navigation">
+      <button id="previous-frame" type="button">◀ Previous</button>
+
+      <div class="navigation-position">
+        <span id="frame-kind" class="navigation-label">MOMENT</span>
+        <strong id="frame-position">— / —</strong>
+      </div>
+
+      <button id="next-frame" type="button">Next ▶</button>
+
+      <input id="frame-slider" class="frame-slider" type="range" min="1" max="1" value="1" step="1" aria-label="Replay moment">
+
+      <div class="navigation-secondary">
+        <form id="jump-form" class="jump-form">
+          <label for="jump-input">Jump</label>
+          <input id="jump-input" type="text" placeholder="R4T2" autocomplete="off" spellcheck="false">
+          <button type="submit">Go</button>
+        </form>
+        <span>Mode: <strong>Action</strong></span>
+      </div>
+    </nav>
+
+    <p id="replay-help" class="prototype-help">Use Previous/Next, the slider, ←/→ keys, or jump to a round/turn. Hover or click any card to inspect it.</p>
+  </main>
+
+  <dialog id="card-dialog" class="card-dialog">
+    <button id="close-dialog" class="card-dialog__close" type="button" aria-label="Close card">×</button>
+    <img id="dialog-image" alt="Selected card">
+    <div id="dialog-caption" class="card-dialog__caption"></div>
+  </dialog>
+
+  <footer class="site-footer">
+    <p>Unofficial fan-made replay viewer. Not affiliated with or endorsed by the game’s designers or publisher. Game names and artwork remain the property of their respective rights holders.</p>
+  </footer>
+
+  <script src="js/app.js?v=7.3a"></script>
+</body>
+</html>

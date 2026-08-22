@@ -1,0 +1,436 @@
+{
+  "heroes": {
+    "Min": {
+      "display_name": "Min",
+      "team": "blue",
+      "board_image": "assets/heroes/Min/board.webp",
+      "resolved_slots": [
+        {
+          "turn": 1,
+          "left_pct": 2.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 2,
+          "left_pct": 26.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 3,
+          "left_pct": 50.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 4,
+          "left_pct": 74.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        }
+      ],
+      "cards": {
+        "B1": {
+          "name": "Trip Mine",
+          "image": "assets/heroes/Min/cards/Min-B1-Trip_Mine.webp"
+        },
+        "B2a": {
+          "name": "Cluster Mine",
+          "image": "assets/heroes/Min/cards/Min-B2a-Cluster_Mine.webp"
+        },
+        "B2b": {
+          "name": "Death Grenade",
+          "image": "assets/heroes/Min/cards/Min-B2b-Death_Grenade.webp"
+        },
+        "B3a": {
+          "name": "Minefield",
+          "image": "assets/heroes/Min/cards/Min-B3a-Minefield.webp"
+        },
+        "B3b": {
+          "name": "Holy Death Grenade",
+          "image": "assets/heroes/Min/cards/Min-B3b-Holy_Death_Grenade.webp"
+        },
+        "G": {
+          "name": "Fast as Lightning",
+          "image": "assets/heroes/Min/cards/Min-G-Fast_as_Lightning.webp"
+        },
+        "G1": {
+          "name": "Poof",
+          "image": "assets/heroes/Min/cards/Min-G1-Poof.webp"
+        },
+        "G2a": {
+          "name": "Vanish",
+          "image": "assets/heroes/Min/cards/Min-G2a-Vanish.webp"
+        },
+        "G2b": {
+          "name": "Inner Strength",
+          "image": "assets/heroes/Min/cards/Min-G2b-Inner_Strength.webp"
+        },
+        "G3a": {
+          "name": "Ruse",
+          "image": "assets/heroes/Min/cards/Min-G3a-Ruse.webp"
+        },
+        "G3b": {
+          "name": "Perfect Self",
+          "image": "assets/heroes/Min/cards/Min-G3b-Perfect_Self.webp"
+        },
+        "R1": {
+          "name": "Crane Stance",
+          "image": "assets/heroes/Min/cards/Min-R1-Crane_Stance.webp"
+        },
+        "R2a": {
+          "name": "Tiger Stance",
+          "image": "assets/heroes/Min/cards/Min-R2a-Tiger_Stance.webp"
+        },
+        "R2b": {
+          "name": "Viper Stance",
+          "image": "assets/heroes/Min/cards/Min-R2b-Viper_Stance.webp"
+        },
+        "R3a": {
+          "name": "Dragon Stance",
+          "image": "assets/heroes/Min/cards/Min-R3a-Dragon_Stance.webp"
+        },
+        "R3b": {
+          "name": "Cobra Stance",
+          "image": "assets/heroes/Min/cards/Min-R3b-Cobra_Stance.webp"
+        },
+        "S": {
+          "name": "Smoke Bomb",
+          "image": "assets/heroes/Min/cards/Min-S-Smoke_Bomb.webp"
+        },
+        "U": {
+          "name": "Flurry of Blows",
+          "image": "assets/heroes/Min/cards/Min-U-Flurry_of_Blows.webp"
+        }
+      }
+    },
+    "Hanu": {
+      "display_name": "Hanu",
+      "team": "red",
+      "board_image": "assets/heroes/Hanu/board.webp",
+      "resolved_slots": [
+        {
+          "turn": 1,
+          "left_pct": 2.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 2,
+          "left_pct": 26.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 3,
+          "left_pct": 50.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 4,
+          "left_pct": 74.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        }
+      ],
+      "cards": {
+        "B1": {
+          "name": "Unexpected Journey",
+          "image": "assets/heroes/Hanu/cards/Hanu-B1-Unexpected_Journey.webp"
+        },
+        "B2a": {
+          "name": "There and Back Again",
+          "image": "assets/heroes/Hanu/cards/Hanu-B2a-There_and_Back_Again.webp"
+        },
+        "B2b": {
+          "name": "This Way",
+          "image": "assets/heroes/Hanu/cards/Hanu-B2b-This_Way.webp"
+        },
+        "B3a": {
+          "name": "Safe Travels",
+          "image": "assets/heroes/Hanu/cards/Hanu-B3a-Safe_Travels.webp"
+        },
+        "B3b": {
+          "name": "That Way",
+          "image": "assets/heroes/Hanu/cards/Hanu-B3b-That_Way.webp"
+        },
+        "G": {
+          "name": "Fight and Flight",
+          "image": "assets/heroes/Hanu/cards/Hanu-G-Fight_and_Flight.webp"
+        },
+        "G1": {
+          "name": "Monkey Trick",
+          "image": "assets/heroes/Hanu/cards/Hanu-G1-Monkey_Trick.webp"
+        },
+        "G2a": {
+          "name": "Monkey Twist",
+          "image": "assets/heroes/Hanu/cards/Hanu-G2a-Monkey_Twist.webp"
+        },
+        "G2b": {
+          "name": "Hear Nothing",
+          "image": "assets/heroes/Hanu/cards/Hanu-G2b-Hear_Nothing.webp"
+        },
+        "G3a": {
+          "name": "Monkey Business",
+          "image": "assets/heroes/Hanu/cards/Hanu-G3a-Monkey_Business.webp"
+        },
+        "G3b": {
+          "name": "See Nothing",
+          "image": "assets/heroes/Hanu/cards/Hanu-G3b-See_Nothing.webp"
+        },
+        "R1": {
+          "name": "Helping Hand",
+          "image": "assets/heroes/Hanu/cards/Hanu-R1-Helping_Hand.webp"
+        },
+        "R2a": {
+          "name": "Even the Odds",
+          "image": "assets/heroes/Hanu/cards/Hanu-R2a-Even_the_Odds.webp"
+        },
+        "R2b": {
+          "name": "Outnumber",
+          "image": "assets/heroes/Hanu/cards/Hanu-R2b-Outnumber.webp"
+        },
+        "R3a": {
+          "name": "Trusted Sidekick",
+          "image": "assets/heroes/Hanu/cards/Hanu-R3a-Trusted_Sidekick.webp"
+        },
+        "R3b": {
+          "name": "Pile On",
+          "image": "assets/heroes/Hanu/cards/Hanu-R3b-Pile_On.webp"
+        },
+        "S": {
+          "name": "Hurry Up",
+          "image": "assets/heroes/Hanu/cards/Hanu-S-Hurry_Up.webp"
+        },
+        "U": {
+          "name": "The Ultimate Trick",
+          "image": "assets/heroes/Hanu/cards/Hanu-U-The_Ultimate_Trick.webp"
+        }
+      }
+    },
+    "Silverarrow": {
+      "display_name": "Silverarrow",
+      "team": "red",
+      "board_image": "assets/heroes/Silverarrow/board.webp",
+      "resolved_slots": [
+        {
+          "turn": 1,
+          "left_pct": 2.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 2,
+          "left_pct": 26.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 3,
+          "left_pct": 50.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 4,
+          "left_pct": 74.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        }
+      ],
+      "cards": {
+        "B1": {
+          "name": "Grasping Roots",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-B1-Grasping_Roots.webp"
+        },
+        "B2a": {
+          "name": "Entangling Vines",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-B2a-Entangling_Vines.webp"
+        },
+        "B2b": {
+          "name": "Warning Shot",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-B2b-Warning_Shot.webp"
+        },
+        "B3a": {
+          "name": "Grappling Branches",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-B3a-Grappling_Branches.webp"
+        },
+        "B3b": {
+          "name": "Treetop Sentinel",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-B3b-Treetop_Sentinel.webp"
+        },
+        "G": {
+          "name": "Shoot and Scoot",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-G-Shoot_and_Scoot.webp"
+        },
+        "G1": {
+          "name": "Disorient",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-G1-Disorient.webp"
+        },
+        "G2a": {
+          "name": "Divert Attention",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-G2a-Divert_Attention.webp"
+        },
+        "G2b": {
+          "name": "Fae Healing",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-G2b-Fae_Healing.webp"
+        },
+        "G3a": {
+          "name": "Lead Astray",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-G3a-Lead_Astray.webp"
+        },
+        "G3b": {
+          "name": "Natures Blessing",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-G3b-Natures_Blessing.webp"
+        },
+        "R1": {
+          "name": "Snap Shot",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-R1-Snap_Shot.webp"
+        },
+        "R2a": {
+          "name": "Opportunity Shot",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-R2a-Opportunity_Shot.webp"
+        },
+        "R2b": {
+          "name": "Long Shot",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-R2b-Long_Shot.webp"
+        },
+        "R3a": {
+          "name": "Clear Shot",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-R3a-Clear_Shot.webp"
+        },
+        "R3b": {
+          "name": "Rain of Arrows",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-R3b-Rain_of_Arrows.webp"
+        },
+        "S": {
+          "name": "Trailblazer",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-S-Trailblazer.webp"
+        },
+        "U": {
+          "name": "Wild Hunt",
+          "image": "assets/heroes/Silverarrow/cards/Silverarrow-U-Wild_Hunt.webp"
+        }
+      }
+    },
+    "Ursafar": {
+      "display_name": "Ursafar",
+      "team": "blue",
+      "board_image": "assets/heroes/Ursafar/board.webp",
+      "resolved_slots": [
+        {
+          "turn": 1,
+          "left_pct": 2.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 2,
+          "left_pct": 26.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 3,
+          "left_pct": 50.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 4,
+          "left_pct": 74.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        }
+      ],
+      "cards": {
+        "B1": {
+          "name": "Prowling Brute",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-B1-Prowling_Brute.webp"
+        },
+        "B2a": {
+          "name": "Rampaging Beast",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-B2a-Rampaging_Beast.webp"
+        },
+        "B2b": {
+          "name": "Cold Ire",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-B2b-Cold_Ire.webp"
+        },
+        "B3a": {
+          "name": "Unstoppable Force",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-B3a-Unstoppable_Force.webp"
+        },
+        "B3b": {
+          "name": "Eyes of Flame",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-B3b-Eyes_of_Flame.webp"
+        },
+        "G": {
+          "name": "Claws That Catch",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-G-Claws_That_Catch.webp"
+        },
+        "G1": {
+          "name": "Sniff Out",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-G1-Sniff_Out.webp"
+        },
+        "G2a": {
+          "name": "Eyes on the Prey",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-G2a-Eyes_on_the_Prey.webp"
+        },
+        "G2b": {
+          "name": "Instinctive Reaction",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-G2b-Instinctive_Reaction.webp"
+        },
+        "G3a": {
+          "name": "Apex Predator",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-G3a-Apex_Predator.webp"
+        },
+        "G3b": {
+          "name": "Evolutionary Response",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-G3b-Evolutionary_Response.webp"
+        },
+        "R1": {
+          "name": "Prey Drive",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-R1-Prey_Drive.webp"
+        },
+        "R2a": {
+          "name": "Prey Abundance",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-R2a-Prey_Abundance.webp"
+        },
+        "R2b": {
+          "name": "Rip",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-R2b-Rip.webp"
+        },
+        "R3a": {
+          "name": "Feeding Frenzy",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-R3a-Feeding_Frenzy.webp"
+        },
+        "R3b": {
+          "name": "Tear",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-R3b-Tear.webp"
+        },
+        "S": {
+          "name": "Angry Roar",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-S-Angry_Roar.webp"
+        },
+        "U": {
+          "name": "Unbound Fury",
+          "image": "assets/heroes/Ursafar/cards/Ursafar-U-Unbound_Fury.webp"
+        }
+      }
+    }
+  },
+  "tokens": {
+    "Min_mine_blast": {
+      "image": "assets/tokens/min_mine_blast.webp"
+    }
+  },
+  "version": "7.2b",
+  "maps": {
+    "Forbidden_Island": {
+      "display_name": "Forbidden Island",
+      "image": "assets/maps/forbidden_island.webp"
+    }
+  }
+}
