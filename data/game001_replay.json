@@ -5,7 +5,7 @@
     "name": "Game 001",
     "map_id": "Forbidden_Island",
     "mode": "action",
-    "frame_count": 168,
+    "frame_count": 169,
     "teams": {
       "blue": [
         "Min",
@@ -51,7 +51,7 @@
     {
       "index": 0,
       "number": 1,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "initial",
       "round": 1,
       "turn": 0,
@@ -333,7 +333,7 @@
     {
       "index": 1,
       "number": 2,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 1,
@@ -626,7 +626,7 @@
     {
       "index": 2,
       "number": 3,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 1,
@@ -919,7 +919,7 @@
     {
       "index": 3,
       "number": 4,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 1,
@@ -1212,7 +1212,7 @@
     {
       "index": 4,
       "number": 5,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 1,
@@ -1505,7 +1505,7 @@
     {
       "index": 5,
       "number": 6,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 2,
@@ -1798,7 +1798,7 @@
     {
       "index": 6,
       "number": 7,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 2,
@@ -2091,7 +2091,7 @@
     {
       "index": 7,
       "number": 8,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 2,
@@ -2384,7 +2384,7 @@
     {
       "index": 8,
       "number": 9,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 2,
@@ -2677,7 +2677,7 @@
     {
       "index": 9,
       "number": 10,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 3,
@@ -2968,7 +2968,7 @@
     {
       "index": 10,
       "number": 11,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 3,
@@ -3248,7 +3248,7 @@
     {
       "index": 11,
       "number": 12,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 3,
@@ -3519,7 +3519,7 @@
     {
       "index": 12,
       "number": 13,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 3,
@@ -3788,7 +3788,7 @@
     {
       "index": 13,
       "number": 14,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 4,
@@ -4052,7 +4052,7 @@
     {
       "index": 14,
       "number": 15,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 4,
@@ -4302,7 +4302,7 @@
     {
       "index": 15,
       "number": 16,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 4,
@@ -4550,7 +4550,7 @@
     {
       "index": 16,
       "number": 17,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 1,
       "turn": 4,
@@ -4800,7 +4800,7 @@
     {
       "index": 17,
       "number": 18,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "round_end",
       "round": 1,
       "turn": null,
@@ -5035,7 +5035,7 @@
     {
       "index": 18,
       "number": 19,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "level_up",
       "round": 1,
       "turn": null,
@@ -5291,7 +5291,7 @@
     {
       "index": 19,
       "number": 20,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 1,
@@ -5537,7 +5537,7 @@
     {
       "index": 20,
       "number": 21,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 1,
@@ -5772,7 +5772,7 @@
     {
       "index": 21,
       "number": 22,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 1,
@@ -5998,7 +5998,7 @@
     {
       "index": 22,
       "number": 23,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 1,
@@ -6228,7 +6228,7 @@
     {
       "index": 23,
       "number": 24,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 2,
@@ -6462,7 +6462,7 @@
     {
       "index": 24,
       "number": 25,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 2,
@@ -6692,7 +6692,7 @@
     {
       "index": 25,
       "number": 26,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 2,
@@ -6927,7 +6927,7 @@
     {
       "index": 26,
       "number": 27,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 2,
@@ -7153,7 +7153,7 @@
     {
       "index": 27,
       "number": 28,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "end_of_turn",
       "round": 2,
       "turn": 2,
@@ -7373,7 +7373,7 @@
     {
       "index": 28,
       "number": 29,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 3,
@@ -7590,7 +7590,7 @@
     {
       "index": 29,
       "number": 30,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 3,
@@ -7818,7 +7818,7 @@
     {
       "index": 30,
       "number": 31,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 3,
@@ -8023,7 +8023,7 @@
     {
       "index": 31,
       "number": 32,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 3,
@@ -8230,7 +8230,7 @@
     {
       "index": 32,
       "number": 33,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 4,
@@ -8436,7 +8436,7 @@
     {
       "index": 33,
       "number": 34,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 4,
@@ -8643,7 +8643,7 @@
     {
       "index": 34,
       "number": 35,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 2,
       "turn": 4,
@@ -8850,7 +8850,7 @@
     {
       "index": 35,
       "number": 36,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "round_end",
       "round": 2,
       "turn": null,
@@ -9042,7 +9042,7 @@
     {
       "index": 36,
       "number": 37,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "lane_push",
       "round": 2,
       "turn": null,
@@ -9326,7 +9326,7 @@
     {
       "index": 37,
       "number": 38,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "level_up",
       "round": 2,
       "turn": null,
@@ -9621,7 +9621,7 @@
     {
       "index": 38,
       "number": 39,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 1,
@@ -9911,7 +9911,7 @@
     {
       "index": 39,
       "number": 40,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 1,
@@ -10199,7 +10199,7 @@
     {
       "index": 40,
       "number": 41,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 1,
@@ -10496,7 +10496,7 @@
     {
       "index": 41,
       "number": 42,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 1,
@@ -10797,7 +10797,7 @@
     {
       "index": 42,
       "number": 43,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "end_of_turn",
       "round": 3,
       "turn": 1,
@@ -11102,7 +11102,7 @@
     {
       "index": 43,
       "number": 44,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 2,
@@ -11402,7 +11402,7 @@
     {
       "index": 44,
       "number": 45,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 2,
@@ -11711,7 +11711,7 @@
     {
       "index": 45,
       "number": 46,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 2,
@@ -12025,7 +12025,7 @@
     {
       "index": 46,
       "number": 47,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 2,
@@ -12350,7 +12350,7 @@
     {
       "index": 47,
       "number": 48,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "end_of_turn",
       "round": 3,
       "turn": 2,
@@ -12653,7 +12653,7 @@
     {
       "index": 48,
       "number": 49,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 3,
@@ -12944,7 +12944,7 @@
     {
       "index": 49,
       "number": 50,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 3,
@@ -13256,7 +13256,7 @@
     {
       "index": 50,
       "number": 51,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 3,
@@ -13555,7 +13555,7 @@
     {
       "index": 51,
       "number": 52,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 3,
@@ -13845,7 +13845,7 @@
     {
       "index": 52,
       "number": 53,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 4,
@@ -14135,7 +14135,7 @@
     {
       "index": 53,
       "number": 54,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 4,
@@ -14425,7 +14425,7 @@
     {
       "index": 54,
       "number": 55,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 3,
       "turn": 4,
@@ -14715,7 +14715,7 @@
     {
       "index": 55,
       "number": 56,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "lane_push",
       "round": 3,
       "turn": null,
@@ -15020,7 +15020,7 @@
     {
       "index": 56,
       "number": 57,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "level_up",
       "round": 3,
       "turn": null,
@@ -15330,7 +15330,7 @@
     {
       "index": 57,
       "number": 58,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 1,
@@ -15637,7 +15637,7 @@
     {
       "index": 58,
       "number": 59,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 1,
@@ -15944,7 +15944,7 @@
     {
       "index": 59,
       "number": 60,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 1,
@@ -16251,7 +16251,7 @@
     {
       "index": 60,
       "number": 61,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 1,
@@ -16558,7 +16558,7 @@
     {
       "index": 61,
       "number": 62,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 2,
@@ -16878,7 +16878,7 @@
     {
       "index": 62,
       "number": 63,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 2,
@@ -17193,7 +17193,7 @@
     {
       "index": 63,
       "number": 64,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 2,
@@ -17508,7 +17508,7 @@
     {
       "index": 64,
       "number": 65,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 2,
@@ -17830,7 +17830,7 @@
     {
       "index": 65,
       "number": 66,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 3,
@@ -17842,7 +17842,7 @@
         "asset_id": "Ursafar",
         "card": "G"
       },
-      "description": "Move to BB-BT1 NE2; Attack Han (5); Han blocks with R (?)",
+      "description": "Move to BB-BT1 NE2; Attack Han (5); Han blocks with R2b (?)",
       "previous_description": "Cards revealed",
       "display_description": null,
       "events": [
@@ -17860,7 +17860,7 @@
         {
           "type": "block",
           "defender": "Han",
-          "card": "R",
+          "card": "R2b",
           "defense_value": "unknown"
         }
       ],
@@ -18167,7 +18167,7 @@
     {
       "index": 66,
       "number": 67,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 3,
@@ -18180,7 +18180,7 @@
         "card": "B2a"
       },
       "description": "Move to C-BT1 SE",
-      "previous_description": "Last action: Move to BB-BT1 NE2; Attack Han (5); Han blocks with R (?)",
+      "previous_description": "Last action: Move to BB-BT1 NE2; Attack Han (5); Han blocks with R2b (?)",
       "display_description": null,
       "events": [
         {
@@ -18217,7 +18217,7 @@
           ],
           "discard": [
             "S",
-            "R"
+            "R2b"
           ]
         },
         "Sil": {
@@ -18492,7 +18492,7 @@
     {
       "index": 67,
       "number": 68,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 3,
@@ -18542,7 +18542,7 @@
           ],
           "discard": [
             "S",
-            "R"
+            "R2b"
           ]
         },
         "Sil": {
@@ -18817,7 +18817,7 @@
     {
       "index": 68,
       "number": 69,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 3,
@@ -18867,7 +18867,7 @@
           ],
           "discard": [
             "S",
-            "R"
+            "R2b"
           ]
         },
         "Sil": {
@@ -19142,7 +19142,7 @@
     {
       "index": 69,
       "number": 70,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 4,
@@ -19190,7 +19190,7 @@
           ],
           "discard": [
             "S",
-            "R"
+            "R2b"
           ]
         },
         "Sil": {
@@ -19465,7 +19465,7 @@
     {
       "index": 70,
       "number": 71,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 4,
       "turn": 4,
@@ -19515,7 +19515,7 @@
           ],
           "discard": [
             "S",
-            "R"
+            "R2b"
           ]
         },
         "Sil": {
@@ -19779,7 +19779,7 @@
     {
       "index": 71,
       "number": 72,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "round_end",
       "round": 4,
       "turn": null,
@@ -19825,7 +19825,7 @@
           ],
           "discard": [
             "S",
-            "R"
+            "R2b"
           ]
         },
         "Sil": {
@@ -20066,7 +20066,7 @@
     {
       "index": 72,
       "number": 73,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "level_up",
       "round": 4,
       "turn": null,
@@ -20121,7 +20121,7 @@
           ],
           "discard": [
             "S",
-            "R"
+            "R2b"
           ]
         },
         "Sil": {
@@ -20364,7 +20364,7 @@
     {
       "index": 73,
       "number": 74,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 1,
@@ -20650,7 +20650,7 @@
     {
       "index": 74,
       "number": 75,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 1,
@@ -20933,7 +20933,7 @@
     {
       "index": 75,
       "number": 76,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 1,
@@ -21222,7 +21222,7 @@
     {
       "index": 76,
       "number": 77,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 1,
@@ -21509,7 +21509,7 @@
     {
       "index": 77,
       "number": 78,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 2,
@@ -21775,7 +21775,7 @@
     {
       "index": 78,
       "number": 79,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 2,
@@ -22042,7 +22042,7 @@
     {
       "index": 79,
       "number": 80,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 2,
@@ -22310,7 +22310,7 @@
     {
       "index": 80,
       "number": 81,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 2,
@@ -22578,7 +22578,7 @@
     {
       "index": 81,
       "number": 82,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 3,
@@ -22844,7 +22844,7 @@
     {
       "index": 82,
       "number": 83,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 3,
@@ -23100,7 +23100,7 @@
     {
       "index": 83,
       "number": 84,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 3,
@@ -23357,7 +23357,7 @@
     {
       "index": 84,
       "number": 85,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 3,
@@ -23620,7 +23620,7 @@
     {
       "index": 85,
       "number": 86,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "end_of_turn",
       "round": 5,
       "turn": 3,
@@ -23872,7 +23872,7 @@
     {
       "index": 86,
       "number": 87,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 4,
@@ -24141,7 +24141,7 @@
     {
       "index": 87,
       "number": 88,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 4,
@@ -24398,7 +24398,7 @@
     {
       "index": 88,
       "number": 89,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 4,
@@ -24644,7 +24644,7 @@
     {
       "index": 89,
       "number": 90,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 5,
       "turn": 4,
@@ -24887,7 +24887,7 @@
     {
       "index": 90,
       "number": 91,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "round_end",
       "round": 5,
       "turn": null,
@@ -25109,7 +25109,7 @@
     {
       "index": 91,
       "number": 92,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "level_up",
       "round": 5,
       "turn": null,
@@ -25338,7 +25338,7 @@
     {
       "index": 92,
       "number": 93,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 1,
@@ -25560,7 +25560,7 @@
     {
       "index": 93,
       "number": 94,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 1,
@@ -25779,7 +25779,7 @@
     {
       "index": 94,
       "number": 95,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 1,
@@ -25994,7 +25994,7 @@
     {
       "index": 95,
       "number": 96,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 1,
@@ -26208,7 +26208,7 @@
     {
       "index": 96,
       "number": 97,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 2,
@@ -26423,7 +26423,7 @@
     {
       "index": 97,
       "number": 98,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 2,
@@ -26638,7 +26638,7 @@
     {
       "index": 98,
       "number": 99,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 2,
@@ -26859,7 +26859,7 @@
     {
       "index": 99,
       "number": 100,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 2,
@@ -27086,7 +27086,7 @@
     {
       "index": 100,
       "number": 101,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "end_of_turn",
       "round": 6,
       "turn": 2,
@@ -27300,7 +27300,7 @@
     {
       "index": 101,
       "number": 102,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 3,
@@ -27515,7 +27515,7 @@
     {
       "index": 102,
       "number": 103,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "lane_push",
       "round": 6,
       "turn": 3,
@@ -27814,7 +27814,7 @@
     {
       "index": 103,
       "number": 104,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 3,
@@ -28124,7 +28124,7 @@
     {
       "index": 104,
       "number": 105,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 3,
@@ -28441,7 +28441,7 @@
     {
       "index": 105,
       "number": 106,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 3,
@@ -28758,7 +28758,7 @@
     {
       "index": 106,
       "number": 107,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 4,
@@ -29073,7 +29073,7 @@
     {
       "index": 107,
       "number": 108,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 4,
@@ -29379,7 +29379,7 @@
     {
       "index": 108,
       "number": 109,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 4,
@@ -29685,7 +29685,7 @@
     {
       "index": 109,
       "number": 110,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 6,
       "turn": 4,
@@ -29989,7 +29989,7 @@
     {
       "index": 110,
       "number": 111,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "round_end",
       "round": 6,
       "turn": null,
@@ -30257,7 +30257,7 @@
     {
       "index": 111,
       "number": 112,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "level_up",
       "round": 6,
       "turn": null,
@@ -30532,7 +30532,7 @@
     {
       "index": 112,
       "number": 113,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 1,
@@ -30814,7 +30814,7 @@
     {
       "index": 113,
       "number": 114,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 1,
@@ -31086,7 +31086,7 @@
     {
       "index": 114,
       "number": 115,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 1,
@@ -31363,7 +31363,7 @@
     {
       "index": 115,
       "number": 116,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 1,
@@ -31647,7 +31647,7 @@
     {
       "index": 116,
       "number": 117,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 2,
@@ -31922,7 +31922,7 @@
     {
       "index": 117,
       "number": 118,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 2,
@@ -32204,7 +32204,7 @@
     {
       "index": 118,
       "number": 119,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 2,
@@ -32477,7 +32477,7 @@
     {
       "index": 119,
       "number": 120,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 2,
@@ -32750,7 +32750,7 @@
     {
       "index": 120,
       "number": 121,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 3,
@@ -32808,7 +32808,7 @@
             "Rng",
             "I"
           ],
-          "revealed": null,
+          "revealed": "G2b",
           "resolved_by_turn": [
             "B3a",
             "R3a",
@@ -33016,7 +33016,7 @@
     {
       "index": 121,
       "number": 122,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 3,
@@ -33087,7 +33087,7 @@
             "Rng",
             "I"
           ],
-          "revealed": null,
+          "revealed": "G2b",
           "resolved_by_turn": [
             "B3a",
             "R3a",
@@ -33295,39 +33295,31 @@
     {
       "index": 122,
       "number": 123,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 3,
       "action_index": 3,
-      "actor": "Urs",
-      "card": "S",
+      "actor": "Sil",
+      "card": "G2b",
       "active_card": {
-        "hero_id": "Urs",
-        "asset_id": "Ursafar",
-        "card": "S"
+        "hero_id": "Sil",
+        "asset_id": "Silverarrow",
+        "card": "G2b"
       },
-      "description": "Swap Urs with Min; Move to BB-RJ W",
+      "description": "Skip turn (defeated)",
       "previous_description": "Last action: Attack Sil (4); Defeat hero Sil",
       "display_description": null,
       "events": [
         {
-          "type": "swap",
-          "piece_a": "Urs",
-          "piece_b": "Min"
-        },
-        {
-          "type": "move",
-          "zone": "BB",
-          "anchor": "RJ",
-          "offset": "W"
+          "type": "skip_turn",
+          "reason": "defeated"
         }
       ],
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        173,
-        174
+        173
       ],
       "heroes": {
         "Han": {
@@ -33368,7 +33360,7 @@
             "Rng",
             "I"
           ],
-          "revealed": null,
+          "revealed": "G2b",
           "resolved_by_turn": [
             "B3a",
             "R3a",
@@ -33566,37 +33558,39 @@
     {
       "index": 123,
       "number": 124,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
-      "turn": 4,
-      "action_index": 1,
-      "actor": "Sil",
-      "card": "G",
+      "turn": 3,
+      "action_index": 4,
+      "actor": "Urs",
+      "card": "S",
       "active_card": {
-        "hero_id": "Sil",
-        "asset_id": "Silverarrow",
-        "card": "G"
+        "hero_id": "Urs",
+        "asset_id": "Ursafar",
+        "card": "S"
       },
-      "description": "Respawn; Fast travel to RB-BR W",
-      "previous_description": "Cards revealed",
+      "description": "Swap Urs with Min; Move to BB-RJ W",
+      "previous_description": "Last action: Skip turn (defeated)",
       "display_description": null,
       "events": [
         {
-          "type": "respawn"
+          "type": "swap",
+          "piece_a": "Urs",
+          "piece_b": "Min"
         },
         {
-          "type": "fast_travel",
-          "zone": "RB",
-          "anchor": "BR",
+          "type": "move",
+          "zone": "BB",
+          "anchor": "RJ",
           "offset": "W"
         }
       ],
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        176,
-        177
+        174,
+        175
       ],
       "heroes": {
         "Han": {
@@ -33613,7 +33607,7 @@
             "D",
             "I"
           ],
-          "revealed": "G2b",
+          "revealed": null,
           "resolved_by_turn": [
             "G",
             "S",
@@ -33637,11 +33631,11 @@
             "Rng",
             "I"
           ],
-          "revealed": "G",
+          "revealed": null,
           "resolved_by_turn": [
             "B3a",
             "R3a",
-            null,
+            "G2b",
             null
           ],
           "discard": [
@@ -33662,7 +33656,7 @@
             "A",
             "Rng"
           ],
-          "revealed": "G2a",
+          "revealed": null,
           "resolved_by_turn": [
             "S",
             "R2b",
@@ -33687,11 +33681,11 @@
             "A",
             "I"
           ],
-          "revealed": "G",
+          "revealed": "S",
           "resolved_by_turn": [
             "B2a",
             "G2a",
-            "S",
+            null,
             null
           ],
           "discard": []
@@ -33711,20 +33705,20 @@
           },
           {
             "id": "Min",
-            "q": 3,
-            "r": 2,
-            "x_pct": 74.51376,
-            "y_pct": 53.10997,
+            "q": 4,
+            "r": 1,
+            "x_pct": 75.83972,
+            "y_pct": 48.16142,
             "kind": "hero",
             "label": "Min",
             "team": "blue"
           },
           {
             "id": "Urs",
-            "q": 5,
-            "r": 0,
-            "x_pct": 77.16568,
-            "y_pct": 43.21286,
+            "q": 3,
+            "r": 2,
+            "x_pct": 74.51376,
+            "y_pct": 53.10997,
             "kind": "hero",
             "label": "Urs",
             "team": "blue"
@@ -33835,30 +33829,36 @@
     {
       "index": 124,
       "number": 125,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 4,
-      "action_index": 2,
-      "actor": "Urs",
+      "action_index": 1,
+      "actor": "Sil",
       "card": "G",
       "active_card": {
-        "hero_id": "Urs",
-        "asset_id": "Ursafar",
+        "hero_id": "Sil",
+        "asset_id": "Silverarrow",
         "card": "G"
       },
-      "description": "Defeat minion RJ",
-      "previous_description": "Last action: Respawn; Fast travel to RB-BR W",
+      "description": "Respawn; Fast travel to RB-BR W",
+      "previous_description": "Cards revealed",
       "display_description": null,
       "events": [
         {
-          "type": "minion_defeat",
-          "target": "RJ"
+          "type": "respawn"
+        },
+        {
+          "type": "fast_travel",
+          "zone": "RB",
+          "anchor": "BR",
+          "offset": "W"
         }
       ],
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
+        177,
         178
       ],
       "heroes": {
@@ -33890,7 +33890,7 @@
           "display_name": "Silverarrow",
           "player_name": "Player 4",
           "team": "red",
-          "alive": true,
+          "alive": false,
           "level": 6,
           "gold": 4,
           "items": [
@@ -33900,12 +33900,12 @@
             "Rng",
             "I"
           ],
-          "revealed": null,
+          "revealed": "G",
           "resolved_by_turn": [
             "B3a",
             "R3a",
-            null,
-            "G"
+            "G2b",
+            null
           ],
           "discard": [
             "S"
@@ -33970,16 +33970,6 @@
             "y_pct": 40.56094,
             "kind": "hero",
             "label": "Han",
-            "team": "red"
-          },
-          {
-            "id": "Sil",
-            "q": -5,
-            "r": 0,
-            "x_pct": 27.68013,
-            "y_pct": 56.47247,
-            "kind": "hero",
-            "label": "Sil",
             "team": "red"
           },
           {
@@ -34108,26 +34098,25 @@
     {
       "index": 125,
       "number": 126,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 4,
-      "action_index": 3,
-      "actor": "Han",
-      "card": "G2b",
+      "action_index": 2,
+      "actor": "Urs",
+      "card": "G",
       "active_card": {
-        "hero_id": "Han",
-        "asset_id": "Hanu",
-        "card": "G2b"
+        "hero_id": "Urs",
+        "asset_id": "Ursafar",
+        "card": "G"
       },
-      "description": "Swap Han with Urs",
-      "previous_description": "Last action: Defeat minion RJ",
+      "description": "Defeat minion RJ",
+      "previous_description": "Last action: Respawn; Fast travel to RB-BR W",
       "display_description": null,
       "events": [
         {
-          "type": "swap",
-          "piece_a": "Han",
-          "piece_b": "Urs"
+          "type": "minion_defeat",
+          "target": "RJ"
         }
       ],
       "highlight": false,
@@ -34178,7 +34167,7 @@
           "resolved_by_turn": [
             "B3a",
             "R3a",
-            null,
+            "G2b",
             "G"
           ],
           "discard": [
@@ -34217,19 +34206,19 @@
           "team": "blue",
           "alive": true,
           "level": 5,
-          "gold": 7,
+          "gold": 5,
           "items": [
             "D",
             "I",
             "A",
             "I"
           ],
-          "revealed": null,
+          "revealed": "G",
           "resolved_by_turn": [
             "B2a",
             "G2a",
             "S",
-            "G"
+            null
           ],
           "discard": []
         }
@@ -34286,6 +34275,17 @@
             "y_pct": 46.83546,
             "kind": "minion",
             "label": "RC",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RJ",
+            "q": 6,
+            "r": -1,
+            "x_pct": 78.49164,
+            "y_pct": 38.26431,
+            "kind": "minion",
+            "label": "RJ",
             "team": "red",
             "heavy": false
           },
@@ -34371,27 +34371,26 @@
     {
       "index": 126,
       "number": 127,
-      "frame_count": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 7,
       "turn": 4,
-      "action_index": 4,
-      "actor": "Min",
-      "card": "G2a",
+      "action_index": 3,
+      "actor": "Han",
+      "card": "G2b",
       "active_card": {
-        "hero_id": "Min",
-        "asset_id": "Min",
-        "card": "G2a"
+        "hero_id": "Han",
+        "asset_id": "Hanu",
+        "card": "G2b"
       },
-      "description": "Move to BB-RR E",
-      "previous_description": "Last action: Swap Han with Urs",
+      "description": "Swap Han with Urs",
+      "previous_description": "Last action: Defeat minion RJ",
       "display_description": null,
       "events": [
         {
-          "type": "move",
-          "zone": "BB",
-          "anchor": "RR",
-          "offset": "E"
+          "type": "swap",
+          "piece_a": "Han",
+          "piece_b": "Urs"
         }
       ],
       "highlight": false,
@@ -34414,12 +34413,12 @@
             "D",
             "I"
           ],
-          "revealed": null,
+          "revealed": "G2b",
           "resolved_by_turn": [
             "G",
             "S",
             "B3a",
-            "G2b"
+            null
           ],
           "discard": []
         },
@@ -34442,7 +34441,7 @@
           "resolved_by_turn": [
             "B3a",
             "R3a",
-            null,
+            "G2b",
             "G"
           ],
           "discard": [
@@ -34502,10 +34501,10 @@
         "heroes": [
           {
             "id": "Han",
-            "q": 5,
+            "q": 7,
             "r": 0,
-            "x_pct": 77.16568,
-            "y_pct": 43.21286,
+            "x_pct": 87.06279,
+            "y_pct": 40.56094,
             "kind": "hero",
             "label": "Han",
             "team": "red"
@@ -34532,10 +34531,10 @@
           },
           {
             "id": "Urs",
-            "q": 7,
+            "q": 5,
             "r": 0,
-            "x_pct": 87.06279,
-            "y_pct": 40.56094,
+            "x_pct": 77.16568,
+            "y_pct": 43.21286,
             "kind": "hero",
             "label": "Urs",
             "team": "blue"
@@ -34635,24 +34634,30 @@
     {
       "index": 127,
       "number": 128,
-      "frame_count": 168,
-      "kind": "lane_push",
+      "frame_count": 169,
+      "kind": "action",
       "round": 7,
-      "turn": null,
-      "action_index": null,
-      "actor": null,
-      "card": null,
-      "active_card": null,
-      "description": "Lane pushes to C",
-      "previous_description": null,
-      "display_description": "Last action: Move to BB-RR E • Lane pushes to C",
+      "turn": 4,
+      "action_index": 4,
+      "actor": "Min",
+      "card": "G2a",
+      "active_card": {
+        "hero_id": "Min",
+        "asset_id": "Min",
+        "card": "G2a"
+      },
+      "description": "Move to BB-RR E",
+      "previous_description": "Last action: Swap Han with Urs",
+      "display_description": null,
       "events": [
         {
-          "type": "lane_push",
-          "destination": "C"
+          "type": "move",
+          "zone": "BB",
+          "anchor": "RR",
+          "offset": "E"
         }
       ],
-      "highlight": true,
+      "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
         181
@@ -34700,7 +34705,7 @@
           "resolved_by_turn": [
             "B3a",
             "R3a",
-            null,
+            "G2b",
             "G"
           ],
           "discard": [
@@ -34721,12 +34726,12 @@
             "A",
             "Rng"
           ],
-          "revealed": null,
+          "revealed": "G2a",
           "resolved_by_turn": [
             "S",
             "R2b",
             "G",
-            "G2a"
+            null
           ],
           "discard": [
             "B2b"
@@ -34780,10 +34785,10 @@
           },
           {
             "id": "Min",
-            "q": 4,
-            "r": 0,
-            "x_pct": 72.21713,
-            "y_pct": 44.53882,
+            "q": 3,
+            "r": 2,
+            "x_pct": 74.51376,
+            "y_pct": 53.10997,
             "kind": "hero",
             "label": "Min",
             "team": "blue"
@@ -34802,98 +34807,32 @@
         "minions": [
           {
             "id": "RC",
-            "q": -1,
+            "q": 5,
             "r": 1,
-            "x_pct": 51.09695,
-            "y_pct": 54.79122,
+            "x_pct": 80.78827,
+            "y_pct": 46.83546,
             "kind": "minion",
             "label": "RC",
             "team": "red",
             "heavy": false
           },
           {
-            "id": "RR",
-            "q": -1,
-            "r": -1,
-            "x_pct": 43.85176,
-            "y_pct": 47.54604,
-            "kind": "minion",
-            "label": "RR",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "RJ",
-            "q": -5,
-            "r": 1,
-            "x_pct": 31.30273,
-            "y_pct": 60.09507,
-            "kind": "minion",
-            "label": "RJ",
-            "team": "red",
-            "heavy": false
-          },
-          {
             "id": "RH",
-            "q": -4,
-            "r": 3,
-            "x_pct": 43.49647,
-            "y_pct": 66.01429,
+            "q": 4,
+            "r": 2,
+            "x_pct": 79.46231,
+            "y_pct": 51.78401,
             "kind": "minion",
             "label": "RH",
             "team": "red",
             "heavy": true
           },
           {
-            "id": "RT1",
-            "q": 2,
-            "r": -4,
-            "x_pct": 47.82964,
-            "y_pct": 32.70037,
-            "kind": "minion",
-            "label": "RT1",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "RT2",
-            "q": 2,
-            "r": -3,
-            "x_pct": 51.45224,
-            "y_pct": 36.32297,
-            "kind": "minion",
-            "label": "RT2",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "BC",
-            "q": 0,
-            "r": -1,
-            "x_pct": 48.80031,
-            "y_pct": 46.22007,
-            "kind": "minion",
-            "label": "BC",
-            "team": "blue",
-            "heavy": false
-          },
-          {
-            "id": "BR",
-            "q": 0,
-            "r": 1,
-            "x_pct": 56.0455,
-            "y_pct": 53.46526,
-            "kind": "minion",
-            "label": "BR",
-            "team": "blue",
-            "heavy": false
-          },
-          {
             "id": "BJ",
-            "q": 4,
+            "q": 7,
             "r": -1,
-            "x_pct": 68.59453,
-            "y_pct": 40.91623,
+            "x_pct": 83.4402,
+            "y_pct": 36.93835,
             "kind": "minion",
             "label": "BJ",
             "team": "blue",
@@ -34901,10 +34840,10 @@
           },
           {
             "id": "BH",
-            "q": 3,
-            "r": -3,
-            "x_pct": 56.40079,
-            "y_pct": 34.997,
+            "q": 4,
+            "r": 3,
+            "x_pct": 83.08491,
+            "y_pct": 55.4066,
             "kind": "minion",
             "label": "BH",
             "team": "blue",
@@ -34912,10 +34851,10 @@
           },
           {
             "id": "BT1",
-            "q": -3,
-            "r": 3,
-            "x_pct": 48.44502,
-            "y_pct": 64.68833,
+            "q": 1,
+            "r": 4,
+            "x_pct": 71.86184,
+            "y_pct": 63.00708,
             "kind": "minion",
             "label": "BT1",
             "team": "blue",
@@ -34923,55 +34862,60 @@
           },
           {
             "id": "BT2",
-            "q": -3,
+            "q": 2,
             "r": 4,
-            "x_pct": 52.06762,
-            "y_pct": 68.31093,
+            "x_pct": 76.81039,
+            "y_pct": 61.68112,
             "kind": "minion",
             "label": "BT2",
             "team": "blue",
             "heavy": false
           }
         ],
-        "objects": []
+        "objects": [
+          {
+            "id": "Min_smoke_bomb",
+            "q": 6,
+            "r": 0,
+            "x_pct": 82.11424,
+            "y_pct": 41.8869,
+            "kind": "object",
+            "object_type": "smoke_bomb",
+            "label": "SB",
+            "owner": "Min"
+          }
+        ]
       },
       "status": {
         "red_life": 3,
         "blue_life": 5,
-        "wave": 5,
-        "battle_zone": "C",
-        "push_count": 4,
+        "wave": 4,
+        "battle_zone": "BB",
+        "push_count": 3,
         "game_result": null
       }
     },
     {
       "index": 128,
       "number": 129,
-      "frame_count": 168,
-      "kind": "level_up",
+      "frame_count": 169,
+      "kind": "lane_push",
       "round": 7,
       "turn": null,
       "action_index": null,
       "actor": null,
       "card": null,
       "active_card": null,
-      "description": "Level-up phase — Min: D; Urs: Spd",
+      "description": "Lane pushes to C",
       "previous_description": null,
-      "display_description": "Level-up phase — Min: D; Urs: Spd",
+      "display_description": "Last action: Move to BB-RR E • Lane pushes to C",
       "events": [
         {
-          "type": "level_up_phase",
-          "upgrades": {
-            "Min": [
-              "D"
-            ],
-            "Urs": [
-              "Spd"
-            ]
-          }
+          "type": "lane_push",
+          "destination": "C"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "synthetic": false,
       "atomic_frame_indices": [
         182
@@ -34984,7 +34928,7 @@
           "team": "red",
           "alive": true,
           "level": 5,
-          "gold": 2,
+          "gold": 1,
           "items": [
             "I",
             "I",
@@ -35007,7 +34951,7 @@
           "team": "red",
           "alive": true,
           "level": 6,
-          "gold": 5,
+          "gold": 4,
           "items": [
             "D",
             "I",
@@ -35019,7 +34963,7 @@
           "resolved_by_turn": [
             "B3a",
             "R3a",
-            null,
+            "G2b",
             "G"
           ],
           "discard": [
@@ -35032,14 +34976,13 @@
           "player_name": "Player 1",
           "team": "blue",
           "alive": true,
-          "level": 6,
-          "gold": 4,
+          "level": 5,
+          "gold": 9,
           "items": [
             "A",
             "I",
             "A",
-            "Rng",
-            "D"
+            "Rng"
           ],
           "revealed": null,
           "resolved_by_turn": [
@@ -35058,14 +35001,13 @@
           "player_name": "Player 2",
           "team": "blue",
           "alive": true,
-          "level": 6,
-          "gold": 2,
+          "level": 5,
+          "gold": 7,
           "items": [
             "D",
             "I",
             "A",
-            "I",
-            "Spd"
+            "I"
           ],
           "revealed": null,
           "resolved_by_turn": [
@@ -35268,7 +35210,328 @@
     {
       "index": 129,
       "number": 130,
-      "frame_count": 168,
+      "frame_count": 169,
+      "kind": "level_up",
+      "round": 7,
+      "turn": null,
+      "action_index": null,
+      "actor": null,
+      "card": null,
+      "active_card": null,
+      "description": "Level-up phase — Min: D; Urs: Spd",
+      "previous_description": null,
+      "display_description": "Level-up phase — Min: D; Urs: Spd",
+      "events": [
+        {
+          "type": "level_up_phase",
+          "upgrades": {
+            "Min": [
+              "D"
+            ],
+            "Urs": [
+              "Spd"
+            ]
+          }
+        }
+      ],
+      "highlight": false,
+      "synthetic": false,
+      "atomic_frame_indices": [
+        183
+      ],
+      "heroes": {
+        "Han": {
+          "asset_id": "Hanu",
+          "display_name": "Hanu",
+          "player_name": "Player 3",
+          "team": "red",
+          "alive": true,
+          "level": 5,
+          "gold": 2,
+          "items": [
+            "I",
+            "I",
+            "D",
+            "I"
+          ],
+          "revealed": null,
+          "resolved_by_turn": [
+            "G",
+            "S",
+            "B3a",
+            "G2b"
+          ],
+          "discard": []
+        },
+        "Sil": {
+          "asset_id": "Silverarrow",
+          "display_name": "Silverarrow",
+          "player_name": "Player 4",
+          "team": "red",
+          "alive": true,
+          "level": 6,
+          "gold": 5,
+          "items": [
+            "D",
+            "I",
+            "I",
+            "Rng",
+            "I"
+          ],
+          "revealed": null,
+          "resolved_by_turn": [
+            "B3a",
+            "R3a",
+            "G2b",
+            "G"
+          ],
+          "discard": [
+            "S"
+          ]
+        },
+        "Min": {
+          "asset_id": "Min",
+          "display_name": "Min",
+          "player_name": "Player 1",
+          "team": "blue",
+          "alive": true,
+          "level": 6,
+          "gold": 4,
+          "items": [
+            "A",
+            "I",
+            "A",
+            "Rng",
+            "D"
+          ],
+          "revealed": null,
+          "resolved_by_turn": [
+            "S",
+            "R2b",
+            "G",
+            "G2a"
+          ],
+          "discard": [
+            "B2b"
+          ]
+        },
+        "Urs": {
+          "asset_id": "Ursafar",
+          "display_name": "Ursafar",
+          "player_name": "Player 2",
+          "team": "blue",
+          "alive": true,
+          "level": 6,
+          "gold": 2,
+          "items": [
+            "D",
+            "I",
+            "A",
+            "I",
+            "Spd"
+          ],
+          "revealed": null,
+          "resolved_by_turn": [
+            "B2a",
+            "G2a",
+            "S",
+            "G"
+          ],
+          "discard": []
+        }
+      },
+      "board": {
+        "heroes": [
+          {
+            "id": "Han",
+            "q": 5,
+            "r": 0,
+            "x_pct": 77.16568,
+            "y_pct": 43.21286,
+            "kind": "hero",
+            "label": "Han",
+            "team": "red"
+          },
+          {
+            "id": "Sil",
+            "q": -5,
+            "r": 0,
+            "x_pct": 27.68013,
+            "y_pct": 56.47247,
+            "kind": "hero",
+            "label": "Sil",
+            "team": "red"
+          },
+          {
+            "id": "Min",
+            "q": 4,
+            "r": 0,
+            "x_pct": 72.21713,
+            "y_pct": 44.53882,
+            "kind": "hero",
+            "label": "Min",
+            "team": "blue"
+          },
+          {
+            "id": "Urs",
+            "q": 7,
+            "r": 0,
+            "x_pct": 87.06279,
+            "y_pct": 40.56094,
+            "kind": "hero",
+            "label": "Urs",
+            "team": "blue"
+          }
+        ],
+        "minions": [
+          {
+            "id": "RC",
+            "q": -1,
+            "r": 1,
+            "x_pct": 51.09695,
+            "y_pct": 54.79122,
+            "kind": "minion",
+            "label": "RC",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RR",
+            "q": -1,
+            "r": -1,
+            "x_pct": 43.85176,
+            "y_pct": 47.54604,
+            "kind": "minion",
+            "label": "RR",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RJ",
+            "q": -5,
+            "r": 1,
+            "x_pct": 31.30273,
+            "y_pct": 60.09507,
+            "kind": "minion",
+            "label": "RJ",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RH",
+            "q": -4,
+            "r": 3,
+            "x_pct": 43.49647,
+            "y_pct": 66.01429,
+            "kind": "minion",
+            "label": "RH",
+            "team": "red",
+            "heavy": true
+          },
+          {
+            "id": "RT1",
+            "q": 2,
+            "r": -4,
+            "x_pct": 47.82964,
+            "y_pct": 32.70037,
+            "kind": "minion",
+            "label": "RT1",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RT2",
+            "q": 2,
+            "r": -3,
+            "x_pct": 51.45224,
+            "y_pct": 36.32297,
+            "kind": "minion",
+            "label": "RT2",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "BC",
+            "q": 0,
+            "r": -1,
+            "x_pct": 48.80031,
+            "y_pct": 46.22007,
+            "kind": "minion",
+            "label": "BC",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BR",
+            "q": 0,
+            "r": 1,
+            "x_pct": 56.0455,
+            "y_pct": 53.46526,
+            "kind": "minion",
+            "label": "BR",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BJ",
+            "q": 4,
+            "r": -1,
+            "x_pct": 68.59453,
+            "y_pct": 40.91623,
+            "kind": "minion",
+            "label": "BJ",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BH",
+            "q": 3,
+            "r": -3,
+            "x_pct": 56.40079,
+            "y_pct": 34.997,
+            "kind": "minion",
+            "label": "BH",
+            "team": "blue",
+            "heavy": true
+          },
+          {
+            "id": "BT1",
+            "q": -3,
+            "r": 3,
+            "x_pct": 48.44502,
+            "y_pct": 64.68833,
+            "kind": "minion",
+            "label": "BT1",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BT2",
+            "q": -3,
+            "r": 4,
+            "x_pct": 52.06762,
+            "y_pct": 68.31093,
+            "kind": "minion",
+            "label": "BT2",
+            "team": "blue",
+            "heavy": false
+          }
+        ],
+        "objects": []
+      },
+      "status": {
+        "red_life": 3,
+        "blue_life": 5,
+        "wave": 5,
+        "battle_zone": "C",
+        "push_count": 4,
+        "game_result": null
+      }
+    },
+    {
+      "index": 130,
+      "number": 131,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 1,
@@ -35293,7 +35556,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        185
+        186
       ],
       "heroes": {
         "Han": {
@@ -35581,9 +35844,9 @@
       }
     },
     {
-      "index": 130,
-      "number": 131,
-      "frame_count": 168,
+      "index": 131,
+      "number": 132,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 1,
@@ -35609,7 +35872,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        186
+        187
       ],
       "heroes": {
         "Han": {
@@ -35897,9 +36160,9 @@
       }
     },
     {
-      "index": 131,
-      "number": 132,
-      "frame_count": 168,
+      "index": 132,
+      "number": 133,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 1,
@@ -35925,7 +36188,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        187
+        188
       ],
       "heroes": {
         "Han": {
@@ -36213,9 +36476,9 @@
       }
     },
     {
-      "index": 132,
-      "number": 133,
-      "frame_count": 168,
+      "index": 133,
+      "number": 134,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 1,
@@ -36241,7 +36504,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        188
+        189
       ],
       "heroes": {
         "Han": {
@@ -36529,9 +36792,9 @@
       }
     },
     {
-      "index": 133,
-      "number": 134,
-      "frame_count": 168,
+      "index": 134,
+      "number": 135,
+      "frame_count": 169,
       "kind": "end_of_turn",
       "round": 8,
       "turn": 1,
@@ -36559,8 +36822,8 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        189,
-        190
+        190,
+        191
       ],
       "heroes": {
         "Han": {
@@ -36650,334 +36913,6 @@
             "Spd"
           ],
           "revealed": null,
-          "resolved_by_turn": [
-            "B2a",
-            null,
-            null,
-            null
-          ],
-          "discard": []
-        }
-      },
-      "board": {
-        "heroes": [
-          {
-            "id": "Han",
-            "q": 6,
-            "r": 0,
-            "x_pct": 82.11424,
-            "y_pct": 41.8869,
-            "kind": "hero",
-            "label": "Han",
-            "team": "red"
-          },
-          {
-            "id": "Sil",
-            "q": -4,
-            "r": 1,
-            "x_pct": 36.25128,
-            "y_pct": 58.76911,
-            "kind": "hero",
-            "label": "Sil",
-            "team": "red"
-          },
-          {
-            "id": "Min",
-            "q": 1,
-            "r": -2,
-            "x_pct": 50.12628,
-            "y_pct": 41.27152,
-            "kind": "hero",
-            "label": "Min",
-            "team": "blue"
-          },
-          {
-            "id": "Urs",
-            "q": 7,
-            "r": 0,
-            "x_pct": 87.06279,
-            "y_pct": 40.56094,
-            "kind": "hero",
-            "label": "Urs",
-            "team": "blue"
-          }
-        ],
-        "minions": [
-          {
-            "id": "RC",
-            "q": -1,
-            "r": 1,
-            "x_pct": 51.09695,
-            "y_pct": 54.79122,
-            "kind": "minion",
-            "label": "RC",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "RR",
-            "q": -1,
-            "r": -1,
-            "x_pct": 43.85176,
-            "y_pct": 47.54604,
-            "kind": "minion",
-            "label": "RR",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "RJ",
-            "q": -5,
-            "r": 1,
-            "x_pct": 31.30273,
-            "y_pct": 60.09507,
-            "kind": "minion",
-            "label": "RJ",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "RH",
-            "q": -4,
-            "r": 3,
-            "x_pct": 43.49647,
-            "y_pct": 66.01429,
-            "kind": "minion",
-            "label": "RH",
-            "team": "red",
-            "heavy": true
-          },
-          {
-            "id": "RT1",
-            "q": 2,
-            "r": -4,
-            "x_pct": 47.82964,
-            "y_pct": 32.70037,
-            "kind": "minion",
-            "label": "RT1",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "RT2",
-            "q": 2,
-            "r": -3,
-            "x_pct": 51.45224,
-            "y_pct": 36.32297,
-            "kind": "minion",
-            "label": "RT2",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "BC",
-            "q": 0,
-            "r": -1,
-            "x_pct": 48.80031,
-            "y_pct": 46.22007,
-            "kind": "minion",
-            "label": "BC",
-            "team": "blue",
-            "heavy": false
-          },
-          {
-            "id": "BR",
-            "q": 0,
-            "r": 1,
-            "x_pct": 56.0455,
-            "y_pct": 53.46526,
-            "kind": "minion",
-            "label": "BR",
-            "team": "blue",
-            "heavy": false
-          },
-          {
-            "id": "BJ",
-            "q": 4,
-            "r": -1,
-            "x_pct": 68.59453,
-            "y_pct": 40.91623,
-            "kind": "minion",
-            "label": "BJ",
-            "team": "blue",
-            "heavy": false
-          },
-          {
-            "id": "BH",
-            "q": 3,
-            "r": -3,
-            "x_pct": 56.40079,
-            "y_pct": 34.997,
-            "kind": "minion",
-            "label": "BH",
-            "team": "blue",
-            "heavy": true
-          },
-          {
-            "id": "BT1",
-            "q": -3,
-            "r": 3,
-            "x_pct": 48.44502,
-            "y_pct": 64.68833,
-            "kind": "minion",
-            "label": "BT1",
-            "team": "blue",
-            "heavy": false
-          },
-          {
-            "id": "BT2",
-            "q": -3,
-            "r": 4,
-            "x_pct": 52.06762,
-            "y_pct": 68.31093,
-            "kind": "minion",
-            "label": "BT2",
-            "team": "blue",
-            "heavy": false
-          }
-        ],
-        "objects": []
-      },
-      "status": {
-        "red_life": 3,
-        "blue_life": 5,
-        "wave": 5,
-        "battle_zone": "C",
-        "push_count": 4,
-        "game_result": null
-      }
-    },
-    {
-      "index": 134,
-      "number": 135,
-      "frame_count": 168,
-      "kind": "action",
-      "round": 8,
-      "turn": 2,
-      "action_index": 1,
-      "actor": "Han",
-      "card": "G",
-      "active_card": {
-        "hero_id": "Han",
-        "asset_id": "Hanu",
-        "card": "G"
-      },
-      "description": "Attack Urs (2); Urs blocks with S; Move to BB-BT2 E",
-      "previous_description": "Cards revealed",
-      "display_description": null,
-      "events": [
-        {
-          "type": "attack",
-          "target": "Urs",
-          "attack_value": 2
-        },
-        {
-          "type": "block",
-          "defender": "Urs",
-          "card": "S"
-        },
-        {
-          "type": "move",
-          "zone": "BB",
-          "anchor": "BT2",
-          "offset": "E"
-        }
-      ],
-      "highlight": false,
-      "synthetic": false,
-      "atomic_frame_indices": [
-        192,
-        193,
-        194
-      ],
-      "heroes": {
-        "Han": {
-          "asset_id": "Hanu",
-          "display_name": "Hanu",
-          "player_name": "Player 3",
-          "team": "red",
-          "alive": true,
-          "level": 5,
-          "gold": 2,
-          "items": [
-            "I",
-            "I",
-            "D",
-            "I"
-          ],
-          "revealed": "G",
-          "resolved_by_turn": [
-            "B3a",
-            null,
-            null,
-            null
-          ],
-          "discard": []
-        },
-        "Sil": {
-          "asset_id": "Silverarrow",
-          "display_name": "Silverarrow",
-          "player_name": "Player 4",
-          "team": "red",
-          "alive": true,
-          "level": 6,
-          "gold": 5,
-          "items": [
-            "D",
-            "I",
-            "I",
-            "Rng",
-            "I"
-          ],
-          "revealed": "G",
-          "resolved_by_turn": [
-            "G2b",
-            null,
-            null,
-            null
-          ],
-          "discard": []
-        },
-        "Min": {
-          "asset_id": "Min",
-          "display_name": "Min",
-          "player_name": "Player 1",
-          "team": "blue",
-          "alive": true,
-          "level": 6,
-          "gold": 4,
-          "items": [
-            "A",
-            "I",
-            "A",
-            "Rng",
-            "D"
-          ],
-          "revealed": "G",
-          "resolved_by_turn": [
-            "R3a",
-            null,
-            null,
-            null
-          ],
-          "discard": []
-        },
-        "Urs": {
-          "asset_id": "Ursafar",
-          "display_name": "Ursafar",
-          "player_name": "Player 2",
-          "team": "blue",
-          "alive": true,
-          "level": 6,
-          "gold": 2,
-          "items": [
-            "D",
-            "I",
-            "A",
-            "I",
-            "Spd"
-          ],
-          "revealed": "G3a",
           "resolved_by_turn": [
             "B2a",
             null,
@@ -37178,7 +37113,335 @@
     {
       "index": 135,
       "number": 136,
-      "frame_count": 168,
+      "frame_count": 169,
+      "kind": "action",
+      "round": 8,
+      "turn": 2,
+      "action_index": 1,
+      "actor": "Han",
+      "card": "G",
+      "active_card": {
+        "hero_id": "Han",
+        "asset_id": "Hanu",
+        "card": "G"
+      },
+      "description": "Attack Urs (2); Urs blocks with S; Move to BB-BT2 E",
+      "previous_description": "Cards revealed",
+      "display_description": null,
+      "events": [
+        {
+          "type": "attack",
+          "target": "Urs",
+          "attack_value": 2
+        },
+        {
+          "type": "block",
+          "defender": "Urs",
+          "card": "S"
+        },
+        {
+          "type": "move",
+          "zone": "BB",
+          "anchor": "BT2",
+          "offset": "E"
+        }
+      ],
+      "highlight": false,
+      "synthetic": false,
+      "atomic_frame_indices": [
+        193,
+        194,
+        195
+      ],
+      "heroes": {
+        "Han": {
+          "asset_id": "Hanu",
+          "display_name": "Hanu",
+          "player_name": "Player 3",
+          "team": "red",
+          "alive": true,
+          "level": 5,
+          "gold": 2,
+          "items": [
+            "I",
+            "I",
+            "D",
+            "I"
+          ],
+          "revealed": "G",
+          "resolved_by_turn": [
+            "B3a",
+            null,
+            null,
+            null
+          ],
+          "discard": []
+        },
+        "Sil": {
+          "asset_id": "Silverarrow",
+          "display_name": "Silverarrow",
+          "player_name": "Player 4",
+          "team": "red",
+          "alive": true,
+          "level": 6,
+          "gold": 5,
+          "items": [
+            "D",
+            "I",
+            "I",
+            "Rng",
+            "I"
+          ],
+          "revealed": "G",
+          "resolved_by_turn": [
+            "G2b",
+            null,
+            null,
+            null
+          ],
+          "discard": []
+        },
+        "Min": {
+          "asset_id": "Min",
+          "display_name": "Min",
+          "player_name": "Player 1",
+          "team": "blue",
+          "alive": true,
+          "level": 6,
+          "gold": 4,
+          "items": [
+            "A",
+            "I",
+            "A",
+            "Rng",
+            "D"
+          ],
+          "revealed": "G",
+          "resolved_by_turn": [
+            "R3a",
+            null,
+            null,
+            null
+          ],
+          "discard": []
+        },
+        "Urs": {
+          "asset_id": "Ursafar",
+          "display_name": "Ursafar",
+          "player_name": "Player 2",
+          "team": "blue",
+          "alive": true,
+          "level": 6,
+          "gold": 2,
+          "items": [
+            "D",
+            "I",
+            "A",
+            "I",
+            "Spd"
+          ],
+          "revealed": "G3a",
+          "resolved_by_turn": [
+            "B2a",
+            null,
+            null,
+            null
+          ],
+          "discard": []
+        }
+      },
+      "board": {
+        "heroes": [
+          {
+            "id": "Han",
+            "q": 6,
+            "r": 0,
+            "x_pct": 82.11424,
+            "y_pct": 41.8869,
+            "kind": "hero",
+            "label": "Han",
+            "team": "red"
+          },
+          {
+            "id": "Sil",
+            "q": -4,
+            "r": 1,
+            "x_pct": 36.25128,
+            "y_pct": 58.76911,
+            "kind": "hero",
+            "label": "Sil",
+            "team": "red"
+          },
+          {
+            "id": "Min",
+            "q": 1,
+            "r": -2,
+            "x_pct": 50.12628,
+            "y_pct": 41.27152,
+            "kind": "hero",
+            "label": "Min",
+            "team": "blue"
+          },
+          {
+            "id": "Urs",
+            "q": 7,
+            "r": 0,
+            "x_pct": 87.06279,
+            "y_pct": 40.56094,
+            "kind": "hero",
+            "label": "Urs",
+            "team": "blue"
+          }
+        ],
+        "minions": [
+          {
+            "id": "RC",
+            "q": -1,
+            "r": 1,
+            "x_pct": 51.09695,
+            "y_pct": 54.79122,
+            "kind": "minion",
+            "label": "RC",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RR",
+            "q": -1,
+            "r": -1,
+            "x_pct": 43.85176,
+            "y_pct": 47.54604,
+            "kind": "minion",
+            "label": "RR",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RJ",
+            "q": -5,
+            "r": 1,
+            "x_pct": 31.30273,
+            "y_pct": 60.09507,
+            "kind": "minion",
+            "label": "RJ",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RH",
+            "q": -4,
+            "r": 3,
+            "x_pct": 43.49647,
+            "y_pct": 66.01429,
+            "kind": "minion",
+            "label": "RH",
+            "team": "red",
+            "heavy": true
+          },
+          {
+            "id": "RT1",
+            "q": 2,
+            "r": -4,
+            "x_pct": 47.82964,
+            "y_pct": 32.70037,
+            "kind": "minion",
+            "label": "RT1",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RT2",
+            "q": 2,
+            "r": -3,
+            "x_pct": 51.45224,
+            "y_pct": 36.32297,
+            "kind": "minion",
+            "label": "RT2",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "BC",
+            "q": 0,
+            "r": -1,
+            "x_pct": 48.80031,
+            "y_pct": 46.22007,
+            "kind": "minion",
+            "label": "BC",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BR",
+            "q": 0,
+            "r": 1,
+            "x_pct": 56.0455,
+            "y_pct": 53.46526,
+            "kind": "minion",
+            "label": "BR",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BJ",
+            "q": 4,
+            "r": -1,
+            "x_pct": 68.59453,
+            "y_pct": 40.91623,
+            "kind": "minion",
+            "label": "BJ",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BH",
+            "q": 3,
+            "r": -3,
+            "x_pct": 56.40079,
+            "y_pct": 34.997,
+            "kind": "minion",
+            "label": "BH",
+            "team": "blue",
+            "heavy": true
+          },
+          {
+            "id": "BT1",
+            "q": -3,
+            "r": 3,
+            "x_pct": 48.44502,
+            "y_pct": 64.68833,
+            "kind": "minion",
+            "label": "BT1",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BT2",
+            "q": -3,
+            "r": 4,
+            "x_pct": 52.06762,
+            "y_pct": 68.31093,
+            "kind": "minion",
+            "label": "BT2",
+            "team": "blue",
+            "heavy": false
+          }
+        ],
+        "objects": []
+      },
+      "status": {
+        "red_life": 3,
+        "blue_life": 5,
+        "wave": 5,
+        "battle_zone": "C",
+        "push_count": 4,
+        "game_result": null
+      }
+    },
+    {
+      "index": 136,
+      "number": 137,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 2,
@@ -37202,7 +37465,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        195
+        196
       ],
       "heroes": {
         "Han": {
@@ -37492,9 +37755,9 @@
       }
     },
     {
-      "index": 136,
-      "number": 137,
-      "frame_count": 168,
+      "index": 137,
+      "number": 138,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 2,
@@ -37518,7 +37781,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        196
+        197
       ],
       "heroes": {
         "Han": {
@@ -37797,9 +38060,9 @@
       }
     },
     {
-      "index": 137,
-      "number": 138,
-      "frame_count": 168,
+      "index": 138,
+      "number": 139,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 2,
@@ -37825,7 +38088,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        197
+        198
       ],
       "heroes": {
         "Han": {
@@ -38093,9 +38356,9 @@
       }
     },
     {
-      "index": 138,
-      "number": 139,
-      "frame_count": 168,
+      "index": 139,
+      "number": 140,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 3,
@@ -38125,8 +38388,8 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        199,
-        200
+        200,
+        201
       ],
       "heroes": {
         "Han": {
@@ -38394,9 +38657,9 @@
       }
     },
     {
-      "index": 139,
-      "number": 140,
-      "frame_count": 168,
+      "index": 140,
+      "number": 141,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 3,
@@ -38427,7 +38690,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        201
+        202
       ],
       "heroes": {
         "Han": {
@@ -38697,9 +38960,9 @@
       }
     },
     {
-      "index": 140,
-      "number": 141,
-      "frame_count": 168,
+      "index": 141,
+      "number": 142,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 3,
@@ -38723,7 +38986,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        202
+        203
       ],
       "heroes": {
         "Han": {
@@ -39005,9 +39268,9 @@
       }
     },
     {
-      "index": 141,
-      "number": 142,
-      "frame_count": 168,
+      "index": 142,
+      "number": 143,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 3,
@@ -39033,7 +39296,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        203
+        204
       ],
       "heroes": {
         "Han": {
@@ -39304,9 +39567,9 @@
       }
     },
     {
-      "index": 142,
-      "number": 143,
-      "frame_count": 168,
+      "index": 143,
+      "number": 144,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 4,
@@ -39346,305 +39609,6 @@
             "G",
             "G2b",
             null
-          ],
-          "discard": [
-            "R2a"
-          ]
-        },
-        "Sil": {
-          "asset_id": "Silverarrow",
-          "display_name": "Silverarrow",
-          "player_name": "Player 4",
-          "team": "red",
-          "alive": true,
-          "level": 6,
-          "gold": 9,
-          "items": [
-            "D",
-            "I",
-            "I",
-            "Rng",
-            "I"
-          ],
-          "revealed": "B3a",
-          "resolved_by_turn": [
-            "G2b",
-            "G",
-            "R3a",
-            null
-          ],
-          "discard": []
-        },
-        "Min": {
-          "asset_id": "Min",
-          "display_name": "Min",
-          "player_name": "Player 1",
-          "team": "blue",
-          "alive": true,
-          "level": 6,
-          "gold": 6,
-          "items": [
-            "A",
-            "I",
-            "A",
-            "Rng",
-            "D"
-          ],
-          "revealed": "G3a",
-          "resolved_by_turn": [
-            "R3a",
-            "G",
-            "S",
-            null
-          ],
-          "discard": []
-        },
-        "Urs": {
-          "asset_id": "Ursafar",
-          "display_name": "Ursafar",
-          "player_name": "Player 2",
-          "team": "blue",
-          "alive": true,
-          "level": 6,
-          "gold": 2,
-          "items": [
-            "D",
-            "I",
-            "A",
-            "I",
-            "Spd"
-          ],
-          "revealed": "R3a",
-          "resolved_by_turn": [
-            "B2a",
-            "G3a",
-            "G",
-            null
-          ],
-          "discard": [
-            "S"
-          ]
-        }
-      },
-      "board": {
-        "heroes": [
-          {
-            "id": "Han",
-            "q": 1,
-            "r": 3,
-            "x_pct": 68.23924,
-            "y_pct": 59.38449,
-            "kind": "hero",
-            "label": "Han",
-            "team": "red"
-          },
-          {
-            "id": "Sil",
-            "q": -4,
-            "r": 1,
-            "x_pct": 36.25128,
-            "y_pct": 58.76911,
-            "kind": "hero",
-            "label": "Sil",
-            "team": "red"
-          },
-          {
-            "id": "Min",
-            "q": 1,
-            "r": -2,
-            "x_pct": 50.12628,
-            "y_pct": 41.27152,
-            "kind": "hero",
-            "label": "Min",
-            "team": "blue"
-          },
-          {
-            "id": "Urs",
-            "q": 4,
-            "r": 2,
-            "x_pct": 79.46231,
-            "y_pct": 51.78401,
-            "kind": "hero",
-            "label": "Urs",
-            "team": "blue"
-          }
-        ],
-        "minions": [
-          {
-            "id": "RC",
-            "q": -1,
-            "r": 1,
-            "x_pct": 51.09695,
-            "y_pct": 54.79122,
-            "kind": "minion",
-            "label": "RC",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "RJ",
-            "q": -5,
-            "r": 1,
-            "x_pct": 31.30273,
-            "y_pct": 60.09507,
-            "kind": "minion",
-            "label": "RJ",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "RH",
-            "q": -4,
-            "r": 3,
-            "x_pct": 43.49647,
-            "y_pct": 66.01429,
-            "kind": "minion",
-            "label": "RH",
-            "team": "red",
-            "heavy": true
-          },
-          {
-            "id": "RT1",
-            "q": 2,
-            "r": -4,
-            "x_pct": 47.82964,
-            "y_pct": 32.70037,
-            "kind": "minion",
-            "label": "RT1",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "RT2",
-            "q": 2,
-            "r": -3,
-            "x_pct": 51.45224,
-            "y_pct": 36.32297,
-            "kind": "minion",
-            "label": "RT2",
-            "team": "red",
-            "heavy": false
-          },
-          {
-            "id": "BC",
-            "q": 0,
-            "r": -1,
-            "x_pct": 48.80031,
-            "y_pct": 46.22007,
-            "kind": "minion",
-            "label": "BC",
-            "team": "blue",
-            "heavy": false
-          },
-          {
-            "id": "BR",
-            "q": 0,
-            "r": 1,
-            "x_pct": 56.0455,
-            "y_pct": 53.46526,
-            "kind": "minion",
-            "label": "BR",
-            "team": "blue",
-            "heavy": false
-          },
-          {
-            "id": "BJ",
-            "q": 4,
-            "r": -1,
-            "x_pct": 68.59453,
-            "y_pct": 40.91623,
-            "kind": "minion",
-            "label": "BJ",
-            "team": "blue",
-            "heavy": false
-          },
-          {
-            "id": "BH",
-            "q": 3,
-            "r": -3,
-            "x_pct": 56.40079,
-            "y_pct": 34.997,
-            "kind": "minion",
-            "label": "BH",
-            "team": "blue",
-            "heavy": true
-          }
-        ],
-        "objects": [
-          {
-            "id": "Min_smoke_bomb",
-            "q": -2,
-            "r": 1,
-            "x_pct": 46.14839,
-            "y_pct": 56.11718,
-            "kind": "object",
-            "object_type": "smoke_bomb",
-            "label": "SB",
-            "owner": "Min"
-          }
-        ]
-      },
-      "status": {
-        "red_life": 3,
-        "blue_life": 5,
-        "wave": 5,
-        "battle_zone": "C",
-        "push_count": 4,
-        "game_result": null
-      }
-    },
-    {
-      "index": 143,
-      "number": 144,
-      "frame_count": 168,
-      "kind": "action",
-      "round": 8,
-      "turn": 4,
-      "action_index": 2,
-      "actor": "Sil",
-      "card": "B3a",
-      "active_card": {
-        "hero_id": "Sil",
-        "asset_id": "Silverarrow",
-        "card": "B3a"
-      },
-      "description": "Move to C-RH SE",
-      "previous_description": "Last action: No recorded state-change events",
-      "display_description": null,
-      "events": [
-        {
-          "type": "move",
-          "zone": "C",
-          "anchor": "RH",
-          "offset": "SE"
-        }
-      ],
-      "highlight": false,
-      "synthetic": false,
-      "atomic_frame_indices": [
-        205
-      ],
-      "heroes": {
-        "Han": {
-          "asset_id": "Hanu",
-          "display_name": "Hanu",
-          "player_name": "Player 3",
-          "team": "red",
-          "alive": true,
-          "level": 5,
-          "gold": 2,
-          "items": [
-            "I",
-            "I",
-            "D",
-            "I"
-          ],
-          "revealed": null,
-          "resolved_by_turn": [
-            "B3a",
-            "G",
-            "G2b",
-            "S"
           ],
           "discard": [
             "R2a"
@@ -39895,7 +39859,306 @@
     {
       "index": 144,
       "number": 145,
-      "frame_count": 168,
+      "frame_count": 169,
+      "kind": "action",
+      "round": 8,
+      "turn": 4,
+      "action_index": 2,
+      "actor": "Sil",
+      "card": "B3a",
+      "active_card": {
+        "hero_id": "Sil",
+        "asset_id": "Silverarrow",
+        "card": "B3a"
+      },
+      "description": "Move to C-RH SE",
+      "previous_description": "Last action: No recorded state-change events",
+      "display_description": null,
+      "events": [
+        {
+          "type": "move",
+          "zone": "C",
+          "anchor": "RH",
+          "offset": "SE"
+        }
+      ],
+      "highlight": false,
+      "synthetic": false,
+      "atomic_frame_indices": [
+        206
+      ],
+      "heroes": {
+        "Han": {
+          "asset_id": "Hanu",
+          "display_name": "Hanu",
+          "player_name": "Player 3",
+          "team": "red",
+          "alive": true,
+          "level": 5,
+          "gold": 2,
+          "items": [
+            "I",
+            "I",
+            "D",
+            "I"
+          ],
+          "revealed": null,
+          "resolved_by_turn": [
+            "B3a",
+            "G",
+            "G2b",
+            "S"
+          ],
+          "discard": [
+            "R2a"
+          ]
+        },
+        "Sil": {
+          "asset_id": "Silverarrow",
+          "display_name": "Silverarrow",
+          "player_name": "Player 4",
+          "team": "red",
+          "alive": true,
+          "level": 6,
+          "gold": 9,
+          "items": [
+            "D",
+            "I",
+            "I",
+            "Rng",
+            "I"
+          ],
+          "revealed": "B3a",
+          "resolved_by_turn": [
+            "G2b",
+            "G",
+            "R3a",
+            null
+          ],
+          "discard": []
+        },
+        "Min": {
+          "asset_id": "Min",
+          "display_name": "Min",
+          "player_name": "Player 1",
+          "team": "blue",
+          "alive": true,
+          "level": 6,
+          "gold": 6,
+          "items": [
+            "A",
+            "I",
+            "A",
+            "Rng",
+            "D"
+          ],
+          "revealed": "G3a",
+          "resolved_by_turn": [
+            "R3a",
+            "G",
+            "S",
+            null
+          ],
+          "discard": []
+        },
+        "Urs": {
+          "asset_id": "Ursafar",
+          "display_name": "Ursafar",
+          "player_name": "Player 2",
+          "team": "blue",
+          "alive": true,
+          "level": 6,
+          "gold": 2,
+          "items": [
+            "D",
+            "I",
+            "A",
+            "I",
+            "Spd"
+          ],
+          "revealed": "R3a",
+          "resolved_by_turn": [
+            "B2a",
+            "G3a",
+            "G",
+            null
+          ],
+          "discard": [
+            "S"
+          ]
+        }
+      },
+      "board": {
+        "heroes": [
+          {
+            "id": "Han",
+            "q": 1,
+            "r": 3,
+            "x_pct": 68.23924,
+            "y_pct": 59.38449,
+            "kind": "hero",
+            "label": "Han",
+            "team": "red"
+          },
+          {
+            "id": "Sil",
+            "q": -4,
+            "r": 1,
+            "x_pct": 36.25128,
+            "y_pct": 58.76911,
+            "kind": "hero",
+            "label": "Sil",
+            "team": "red"
+          },
+          {
+            "id": "Min",
+            "q": 1,
+            "r": -2,
+            "x_pct": 50.12628,
+            "y_pct": 41.27152,
+            "kind": "hero",
+            "label": "Min",
+            "team": "blue"
+          },
+          {
+            "id": "Urs",
+            "q": 4,
+            "r": 2,
+            "x_pct": 79.46231,
+            "y_pct": 51.78401,
+            "kind": "hero",
+            "label": "Urs",
+            "team": "blue"
+          }
+        ],
+        "minions": [
+          {
+            "id": "RC",
+            "q": -1,
+            "r": 1,
+            "x_pct": 51.09695,
+            "y_pct": 54.79122,
+            "kind": "minion",
+            "label": "RC",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RJ",
+            "q": -5,
+            "r": 1,
+            "x_pct": 31.30273,
+            "y_pct": 60.09507,
+            "kind": "minion",
+            "label": "RJ",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RH",
+            "q": -4,
+            "r": 3,
+            "x_pct": 43.49647,
+            "y_pct": 66.01429,
+            "kind": "minion",
+            "label": "RH",
+            "team": "red",
+            "heavy": true
+          },
+          {
+            "id": "RT1",
+            "q": 2,
+            "r": -4,
+            "x_pct": 47.82964,
+            "y_pct": 32.70037,
+            "kind": "minion",
+            "label": "RT1",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "RT2",
+            "q": 2,
+            "r": -3,
+            "x_pct": 51.45224,
+            "y_pct": 36.32297,
+            "kind": "minion",
+            "label": "RT2",
+            "team": "red",
+            "heavy": false
+          },
+          {
+            "id": "BC",
+            "q": 0,
+            "r": -1,
+            "x_pct": 48.80031,
+            "y_pct": 46.22007,
+            "kind": "minion",
+            "label": "BC",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BR",
+            "q": 0,
+            "r": 1,
+            "x_pct": 56.0455,
+            "y_pct": 53.46526,
+            "kind": "minion",
+            "label": "BR",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BJ",
+            "q": 4,
+            "r": -1,
+            "x_pct": 68.59453,
+            "y_pct": 40.91623,
+            "kind": "minion",
+            "label": "BJ",
+            "team": "blue",
+            "heavy": false
+          },
+          {
+            "id": "BH",
+            "q": 3,
+            "r": -3,
+            "x_pct": 56.40079,
+            "y_pct": 34.997,
+            "kind": "minion",
+            "label": "BH",
+            "team": "blue",
+            "heavy": true
+          }
+        ],
+        "objects": [
+          {
+            "id": "Min_smoke_bomb",
+            "q": -2,
+            "r": 1,
+            "x_pct": 46.14839,
+            "y_pct": 56.11718,
+            "kind": "object",
+            "object_type": "smoke_bomb",
+            "label": "SB",
+            "owner": "Min"
+          }
+        ]
+      },
+      "status": {
+        "red_life": 3,
+        "blue_life": 5,
+        "wave": 5,
+        "battle_zone": "C",
+        "push_count": 4,
+        "game_result": null
+      }
+    },
+    {
+      "index": 145,
+      "number": 146,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 4,
@@ -39921,7 +40184,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        206
+        207
       ],
       "heroes": {
         "Han": {
@@ -40192,9 +40455,9 @@
       }
     },
     {
-      "index": 145,
-      "number": 146,
-      "frame_count": 168,
+      "index": 146,
+      "number": 147,
+      "frame_count": 169,
       "kind": "action",
       "round": 8,
       "turn": 4,
@@ -40220,7 +40483,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        207
+        208
       ],
       "heroes": {
         "Han": {
@@ -40491,9 +40754,9 @@
       }
     },
     {
-      "index": 146,
-      "number": 147,
-      "frame_count": 168,
+      "index": 147,
+      "number": 148,
+      "frame_count": 169,
       "kind": "round_end",
       "round": 8,
       "turn": null,
@@ -40515,7 +40778,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        208
+        209
       ],
       "heroes": {
         "Han": {
@@ -40763,9 +41026,9 @@
       }
     },
     {
-      "index": 147,
-      "number": 148,
-      "frame_count": 168,
+      "index": 148,
+      "number": 149,
+      "frame_count": 169,
       "kind": "level_up",
       "round": 8,
       "turn": null,
@@ -40792,7 +41055,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        209
+        210
       ],
       "heroes": {
         "Han": {
@@ -41042,9 +41305,9 @@
       }
     },
     {
-      "index": 148,
-      "number": 149,
-      "frame_count": 168,
+      "index": 149,
+      "number": 150,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 1,
@@ -41070,7 +41333,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        212
+        213
       ],
       "heroes": {
         "Han": {
@@ -41316,9 +41579,9 @@
       }
     },
     {
-      "index": 149,
-      "number": 150,
-      "frame_count": 168,
+      "index": 150,
+      "number": 151,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 1,
@@ -41351,8 +41614,8 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        213,
-        214
+        214,
+        215
       ],
       "heroes": {
         "Han": {
@@ -41598,9 +41861,9 @@
       }
     },
     {
-      "index": 150,
-      "number": 151,
-      "frame_count": 168,
+      "index": 151,
+      "number": 152,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 1,
@@ -41626,7 +41889,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        215
+        216
       ],
       "heroes": {
         "Han": {
@@ -41872,9 +42135,9 @@
       }
     },
     {
-      "index": 151,
-      "number": 152,
-      "frame_count": 168,
+      "index": 152,
+      "number": 153,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 1,
@@ -41900,7 +42163,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        216
+        217
       ],
       "heroes": {
         "Han": {
@@ -42146,9 +42409,9 @@
       }
     },
     {
-      "index": 152,
-      "number": 153,
-      "frame_count": 168,
+      "index": 153,
+      "number": 154,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 2,
@@ -42411,9 +42674,9 @@
       }
     },
     {
-      "index": 153,
-      "number": 154,
-      "frame_count": 168,
+      "index": 154,
+      "number": 155,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 2,
@@ -42469,9 +42732,9 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        218,
         219,
-        220
+        220,
+        221
       ],
       "heroes": {
         "Han": {
@@ -42717,9 +42980,9 @@
       }
     },
     {
-      "index": 154,
-      "number": 155,
-      "frame_count": 168,
+      "index": 155,
+      "number": 156,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 2,
@@ -42743,7 +43006,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        221
+        222
       ],
       "heroes": {
         "Han": {
@@ -43023,9 +43286,9 @@
       }
     },
     {
-      "index": 155,
-      "number": 156,
-      "frame_count": 168,
+      "index": 156,
+      "number": 157,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 2,
@@ -43050,7 +43313,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        222
+        223
       ],
       "heroes": {
         "Han": {
@@ -43319,9 +43582,9 @@
       }
     },
     {
-      "index": 156,
-      "number": 157,
-      "frame_count": 168,
+      "index": 157,
+      "number": 158,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 3,
@@ -43351,8 +43614,8 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        224,
-        225
+        225,
+        226
       ],
       "heroes": {
         "Han": {
@@ -43621,9 +43884,9 @@
       }
     },
     {
-      "index": 157,
-      "number": 158,
-      "frame_count": 168,
+      "index": 158,
+      "number": 159,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 3,
@@ -43647,7 +43910,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        226
+        227
       ],
       "heroes": {
         "Han": {
@@ -43918,9 +44181,9 @@
       }
     },
     {
-      "index": 158,
-      "number": 159,
-      "frame_count": 168,
+      "index": 159,
+      "number": 160,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 3,
@@ -44197,9 +44460,9 @@
       }
     },
     {
-      "index": 159,
-      "number": 160,
-      "frame_count": 168,
+      "index": 160,
+      "number": 161,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 3,
@@ -44236,9 +44499,9 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        227,
         228,
-        229
+        229,
+        230
       ],
       "heroes": {
         "Han": {
@@ -44498,9 +44761,9 @@
       }
     },
     {
-      "index": 160,
-      "number": 161,
-      "frame_count": 168,
+      "index": 161,
+      "number": 162,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 4,
@@ -44538,9 +44801,9 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        231,
         232,
-        233
+        233,
+        234
       ],
       "heroes": {
         "Han": {
@@ -44800,9 +45063,9 @@
       }
     },
     {
-      "index": 161,
-      "number": 162,
-      "frame_count": 168,
+      "index": 162,
+      "number": 163,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 4,
@@ -44828,7 +45091,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        234
+        235
       ],
       "heroes": {
         "Han": {
@@ -45079,9 +45342,9 @@
       }
     },
     {
-      "index": 162,
-      "number": 163,
-      "frame_count": 168,
+      "index": 163,
+      "number": 164,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 4,
@@ -45105,7 +45368,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        235
+        236
       ],
       "heroes": {
         "Han": {
@@ -45356,9 +45619,9 @@
       }
     },
     {
-      "index": 163,
-      "number": 164,
-      "frame_count": 168,
+      "index": 164,
+      "number": 165,
+      "frame_count": 169,
       "kind": "action",
       "round": 9,
       "turn": 4,
@@ -45382,7 +45645,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        236
+        237
       ],
       "heroes": {
         "Han": {
@@ -45622,9 +45885,9 @@
       }
     },
     {
-      "index": 164,
-      "number": 165,
-      "frame_count": 168,
+      "index": 165,
+      "number": 166,
+      "frame_count": 169,
       "kind": "level_up",
       "round": 9,
       "turn": null,
@@ -45647,7 +45910,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        237
+        238
       ],
       "heroes": {
         "Han": {
@@ -45876,9 +46139,9 @@
       }
     },
     {
-      "index": 165,
-      "number": 166,
-      "frame_count": 168,
+      "index": 166,
+      "number": 167,
+      "frame_count": 169,
       "kind": "action",
       "round": 10,
       "turn": 1,
@@ -45902,7 +46165,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        240
+        241
       ],
       "heroes": {
         "Han": {
@@ -46127,9 +46390,9 @@
       }
     },
     {
-      "index": 166,
-      "number": 167,
-      "frame_count": 168,
+      "index": 167,
+      "number": 168,
+      "frame_count": 169,
       "kind": "action",
       "round": 10,
       "turn": 1,
@@ -46153,7 +46416,7 @@
       "highlight": false,
       "synthetic": false,
       "atomic_frame_indices": [
-        241
+        242
       ],
       "heroes": {
         "Han": {
@@ -46367,9 +46630,9 @@
       }
     },
     {
-      "index": 167,
-      "number": 168,
-      "frame_count": 168,
+      "index": 168,
+      "number": 169,
+      "frame_count": 169,
       "kind": "game_end",
       "round": 10,
       "turn": 1,
@@ -46377,19 +46640,21 @@
       "actor": "Han",
       "card": "R2a",
       "active_card": null,
-      "description": "Lane pushes to BB — RED TEAM WINS (LPush)",
+      "description": "Game over — RED TEAM WINS — PUSH 5",
       "previous_description": null,
-      "display_description": "Last action: Defeat minion BH • Lane pushes to BB — RED TEAM WINS (LPush)",
+      "display_description": "Last action: Defeat minion BH • Game over — RED TEAM WINS — PUSH 5",
       "events": [
         {
-          "type": "lane_push",
-          "destination": "BB"
+          "type": "game_end",
+          "winner": "red",
+          "reason": "LPush",
+          "push_count": 5
         }
       ],
       "highlight": true,
       "synthetic": false,
       "atomic_frame_indices": [
-        242
+        243
       ],
       "heroes": {
         "Han": {
