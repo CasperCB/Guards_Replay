@@ -419,6 +419,321 @@
           "image": "assets/heroes/Ursafar/cards/Ursafar-U-Unbound_Fury.webp"
         }
       }
+    },
+    "Whisper": {
+      "display_name": "Whisper",
+      "team": "red",
+      "board_image": "assets/heroes/Whisper/board.webp",
+      "resolved_slots": [
+        {
+          "turn": 1,
+          "left_pct": 2.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 2,
+          "left_pct": 26.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 3,
+          "left_pct": 50.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 4,
+          "left_pct": 74.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        }
+      ],
+      "cards": {
+        "B1": {
+          "name": "Seeds of Fear",
+          "image": "assets/heroes/Whisper/cards/Whisper-B1-Seeds_of_Fear.webp"
+        },
+        "B2a": {
+          "name": "Sprouts of Panic",
+          "image": "assets/heroes/Whisper/cards/Whisper-B2a-Sprouts_of_Panic.webp"
+        },
+        "B2b": {
+          "name": "Lesser Evil",
+          "image": "assets/heroes/Whisper/cards/Whisper-B2b-Lesser_Evil.webp"
+        },
+        "B3a": {
+          "name": "Blooming Nightmare",
+          "image": "assets/heroes/Whisper/cards/Whisper-B3a-Blooming_Nightmare.webp"
+        },
+        "B3b": {
+          "name": "Greater Good",
+          "image": "assets/heroes/Whisper/cards/Whisper-B3b-Greater_Good.webp"
+        },
+        "G": {
+          "name": "Swift Justice",
+          "image": "assets/heroes/Whisper/cards/Whisper-G-Swift_Justice.webp"
+        },
+        "G1": {
+          "name": "Shadow Step",
+          "image": "assets/heroes/Whisper/cards/Whisper-G1-Shadow_Step.webp"
+        },
+        "G2a": {
+          "name": "Shadow Walk",
+          "image": "assets/heroes/Whisper/cards/Whisper-G2a-Shadow_Walk.webp"
+        },
+        "G2b": {
+          "name": "Cruel Twist",
+          "image": "assets/heroes/Whisper/cards/Whisper-G2b-Cruel_Twist.webp"
+        },
+        "G3a": {
+          "name": "Creeping Shadow",
+          "image": "assets/heroes/Whisper/cards/Whisper-G3a-Creeping_Shadow.webp"
+        },
+        "G3b": {
+          "name": "Sealed Fate",
+          "image": "assets/heroes/Whisper/cards/Whisper-G3b-Sealed_Fate.webp"
+        },
+        "R1": {
+          "name": "Crimson Trail",
+          "image": "assets/heroes/Whisper/cards/Whisper-R1-Crimson_Trail.webp"
+        },
+        "R2a": {
+          "name": "Sanguine Path",
+          "image": "assets/heroes/Whisper/cards/Whisper-R2a-Sanguine_Path.webp"
+        },
+        "R2b": {
+          "name": "Blood Fury",
+          "image": "assets/heroes/Whisper/cards/Whisper-R2b-Blood_Fury.webp"
+        },
+        "R3a": {
+          "name": "Blood Pilgrimage",
+          "image": "assets/heroes/Whisper/cards/Whisper-R3a-Blood_Pilgrimage.webp"
+        },
+        "R3b": {
+          "name": "Blood Frenzy",
+          "image": "assets/heroes/Whisper/cards/Whisper-R3b-Blood_Frenzy.webp"
+        },
+        "S": {
+          "name": "Death Seeker",
+          "image": "assets/heroes/Whisper/cards/Whisper-S-Death_Seeker.webp"
+        },
+        "U": {
+          "name": "Grim Reaper",
+          "image": "assets/heroes/Whisper/cards/Whisper-U-Grim_Reaper.webp"
+        }
+      }
+    },
+    "Cutter": {
+      "display_name": "Cutter",
+      "team": "red",
+      "board_image": "assets/heroes/Cutter/board.webp",
+      "resolved_slots": [
+        {
+          "turn": 1,
+          "left_pct": 2.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 2,
+          "left_pct": 26.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 3,
+          "left_pct": 50.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 4,
+          "left_pct": 74.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        }
+      ],
+      "cards": {
+        "B1": {
+          "name": "Bombardment",
+          "image": "assets/heroes/Cutter/cards/Cutter-B1-Bombardment.webp"
+        },
+        "B2a": {
+          "name": "Barrage",
+          "image": "assets/heroes/Cutter/cards/Cutter-B2a-Barrage.webp"
+        },
+        "B2b": {
+          "name": "X Marks the Spot",
+          "image": "assets/heroes/Cutter/cards/Cutter-B2b-X_Marks_the_Spot.webp"
+        },
+        "B3a": {
+          "name": "Broadside",
+          "image": "assets/heroes/Cutter/cards/Cutter-B3a-Broadside.webp"
+        },
+        "B3b": {
+          "name": "A Fistful of Coins",
+          "image": "assets/heroes/Cutter/cards/Cutter-B3b-A_Fistful_of_Coins.webp"
+        },
+        "G": {
+          "name": "Walk the Plank",
+          "image": "assets/heroes/Cutter/cards/Cutter-G-Walk_the_Plank.webp"
+        },
+        "G1": {
+          "name": "Brace for Impact",
+          "image": "assets/heroes/Cutter/cards/Cutter-G1-Brace_for_Impact.webp"
+        },
+        "G2a": {
+          "name": "Ramming Speed",
+          "image": "assets/heroes/Cutter/cards/Cutter-G2a-Ramming_Speed.webp"
+        },
+        "G2b": {
+          "name": "Outmaneuver",
+          "image": "assets/heroes/Cutter/cards/Cutter-G2b-Outmaneuver.webp"
+        },
+        "G3a": {
+          "name": "Crashland",
+          "image": "assets/heroes/Cutter/cards/Cutter-G3a-Crashland.webp"
+        },
+        "G3b": {
+          "name": "Outsmart",
+          "image": "assets/heroes/Cutter/cards/Cutter-G3b-Outsmart.webp"
+        },
+        "R1": {
+          "name": "Daring Strike",
+          "image": "assets/heroes/Cutter/cards/Cutter-R1-Daring_Strike.webp"
+        },
+        "R2a": {
+          "name": "Bold Thrust",
+          "image": "assets/heroes/Cutter/cards/Cutter-R2a-Bold_Thrust.webp"
+        },
+        "R2b": {
+          "name": "Evasive Shot",
+          "image": "assets/heroes/Cutter/cards/Cutter-R2b-Evasive_Shot.webp"
+        },
+        "R3a": {
+          "name": "Fearless Lunge",
+          "image": "assets/heroes/Cutter/cards/Cutter-R3a-Fearless_Lunge.webp"
+        },
+        "R3b": {
+          "name": "Tumble Shot",
+          "image": "assets/heroes/Cutter/cards/Cutter-R3b-Tumble_Shot.webp"
+        },
+        "S": {
+          "name": "Grappling Bolt",
+          "image": "assets/heroes/Cutter/cards/Cutter-S-Grappling_Bolt.webp"
+        },
+        "U": {
+          "name": "Legend of the Skies",
+          "image": "assets/heroes/Cutter/cards/Cutter-U-Legend_of_the_Skies.webp"
+        }
+      }
+    },
+    "Brogan": {
+      "display_name": "Brogan",
+      "team": "blue",
+      "board_image": "assets/heroes/Brogan/board.webp",
+      "resolved_slots": [
+        {
+          "turn": 1,
+          "left_pct": 2.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 2,
+          "left_pct": 26.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 3,
+          "left_pct": 50.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        },
+        {
+          "turn": 4,
+          "left_pct": 74.5,
+          "top_pct": 19.65,
+          "width_pct": 21.5
+        }
+      ],
+      "cards": {
+        "B1": {
+          "name": "Brutal Jab",
+          "image": "assets/heroes/Brogan/cards/Brogan-B1-Brutal_Jab.webp"
+        },
+        "B2a": {
+          "name": "Mighty Punch",
+          "image": "assets/heroes/Brogan/cards/Brogan-B2a-Mighty_Punch.webp"
+        },
+        "B2b": {
+          "name": "Shield Bash",
+          "image": "assets/heroes/Brogan/cards/Brogan-B2b-Shield_Bash.webp"
+        },
+        "B3a": {
+          "name": "Savage Kick",
+          "image": "assets/heroes/Brogan/cards/Brogan-B3a-Savage_Kick.webp"
+        },
+        "B3b": {
+          "name": "Counterattack",
+          "image": "assets/heroes/Brogan/cards/Brogan-B3b-Counterattack.webp"
+        },
+        "G": {
+          "name": "Onslaught",
+          "image": "assets/heroes/Brogan/cards/Brogan-G-Onslaught.webp"
+        },
+        "G1": {
+          "name": "Shield",
+          "image": "assets/heroes/Brogan/cards/Brogan-G1-Shield.webp"
+        },
+        "G2a": {
+          "name": "Bolster",
+          "image": "assets/heroes/Brogan/cards/Brogan-G2a-Bolster.webp"
+        },
+        "G2b": {
+          "name": "War Drummer",
+          "image": "assets/heroes/Brogan/cards/Brogan-G2b-War_Drummer.webp"
+        },
+        "G3a": {
+          "name": "Fortify",
+          "image": "assets/heroes/Brogan/cards/Brogan-G3a-Fortify.webp"
+        },
+        "G3b": {
+          "name": "Master Skald",
+          "image": "assets/heroes/Brogan/cards/Brogan-G3b-Master_Skald.webp"
+        },
+        "R1": {
+          "name": "Mad Dash",
+          "image": "assets/heroes/Brogan/cards/Brogan-R1-Mad_Dash.webp"
+        },
+        "R2a": {
+          "name": "Bullrush",
+          "image": "assets/heroes/Brogan/cards/Brogan-R2a-Bullrush.webp"
+        },
+        "R2b": {
+          "name": "Throwing Axe",
+          "image": "assets/heroes/Brogan/cards/Brogan-R2b-Throwing_Axe.webp"
+        },
+        "R3a": {
+          "name": "Furious Charge",
+          "image": "assets/heroes/Brogan/cards/Brogan-R3a-Furious_Charge.webp"
+        },
+        "R3b": {
+          "name": "Throwing Spear",
+          "image": "assets/heroes/Brogan/cards/Brogan-R3b-Throwing_Spear.webp"
+        },
+        "S": {
+          "name": "Bulwark",
+          "image": "assets/heroes/Brogan/cards/Brogan-S-Bulwark.webp"
+        },
+        "U": {
+          "name": "One Man Army",
+          "image": "assets/heroes/Brogan/cards/Brogan-U-One_Man_Army.webp"
+        }
+      }
     }
   },
   "tokens": {

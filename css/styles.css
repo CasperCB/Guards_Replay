@@ -616,6 +616,47 @@ button { font: inherit; }
 .status-chip--blue strong { color: #65caf9; }
 .status-chip--red strong { color: #ffab63; }
 
+.navigation-tiebreaker {
+  min-width: 58px;
+  height: 42px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 4px 8px;
+  border: 1px solid #3d4b58;
+  border-radius: 10px;
+  background: #111820;
+}
+
+.navigation-tiebreaker span {
+  color: #aeb9c5;
+  font-size: 0.68rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+}
+
+.tiebreaker-dot {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  flex: 0 0 32px;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, 0.82);
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.3);
+  background: #697581;
+}
+
+.tiebreaker-dot[data-team="blue"] {
+  background: var(--team-blue);
+  box-shadow: 0 0 0 2px rgba(41, 182, 246, 0.18), 0 0 10px rgba(41, 182, 246, 0.35);
+}
+
+.tiebreaker-dot[data-team="red"] {
+  background: var(--team-red);
+  box-shadow: 0 0 0 2px rgba(242, 140, 40, 0.18), 0 0 10px rgba(242, 140, 40, 0.35);
+}
+
 .replay-navigation {
   width: min(900px, 100%);
   min-height: 46px;

@@ -355,6 +355,22 @@ function renderStatus(frame) {
   document.getElementById("battle-zone").textContent = frame.status.battle_zone;
   document.getElementById("push-count").textContent = frame.status.push_count;
 
+  const tiebreakerChip = document.getElementById("tiebreaker-chip");
+  const tiebreakerDot = document.getElementById("tiebreaker-dot");
+  const tiebreakerTeam = frame.status.tiebreaker;
+  if (tiebreakerTeam === "red" || tiebreakerTeam === "blue") {
+    tiebreakerChip.hidden = false;
+    tiebreakerDot.dataset.team = tiebreakerTeam;
+    tiebreakerDot.setAttribute(
+      "aria-label",
+      `${tiebreakerTeam === "red" ? "Red" : "Blue"} team has the tiebreaker`
+    );
+    tiebreakerChip.title = `${tiebreakerTeam === "red" ? "Red" : "Blue"} team has the tiebreaker`;
+  } else {
+    tiebreakerChip.hidden = true;
+    tiebreakerDot.removeAttribute("data-team");
+  }
+
   const badge = document.getElementById("game-result-badge");
   if (frame.status.game_result) {
     const winner = frame.status.game_result.winner.toUpperCase();

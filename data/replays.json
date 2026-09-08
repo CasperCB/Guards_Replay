@@ -1,10 +1,14 @@
 {
-  "schema_version": "7.3a.1",
-  "default_game": "game001",
+  "schema_version": "7.3a.3",
+  "default_game": "game002",
   "games": {
     "game001": {
       "name": "Game 001",
       "replay_file": "data/game001_replay.json"
+    },
+    "game002": {
+      "name": "Game 002 \u2014 R1\u2013R8",
+      "replay_file": "data/game002_replay.json"
     }
   }
 }
